@@ -1,0 +1,604 @@
+﻿<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Alpha Skills" owner="bb13a8d2-cd83-4c45-8727-b33536f81141" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3392" skill="Mechanics" level="3" priority="3" type="Prerequisite">
+    <notes>Armor Layering, Remote Armor Repair Systems, Capital Remote Armor Repair Systems, Armor Rigging, Astronautics Rigging, Drones Rigging, Electronic Superiority Rigging, Energy Weapon Rigging, Hybrid Weapon Rigging, Shield Rigging, Launcher Rigging</notes>
+  </entry>
+  <entry skillID="33078" skill="Armor Layering" level="1" priority="3" type="Planned">
+    <notes>Armor Layering</notes>
+  </entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="3" priority="3" type="Prerequisite">
+    <notes>EM Armor Compensation, Explosive Armor Compensation, Kinetic Armor Compensation, Thermal Armor Compensation</notes>
+  </entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="4" priority="3" type="Prerequisite">
+    <notes>EM Armor Compensation, Explosive Armor Compensation, Kinetic Armor Compensation, Thermal Armor Compensation</notes>
+  </entry>
+  <entry skillID="22806" skill="EM Armor Compensation" level="1" priority="3" type="Planned">
+    <notes>EM Armor Compensation</notes>
+  </entry>
+  <entry skillID="22807" skill="Explosive Armor Compensation" level="1" priority="3" type="Planned">
+    <notes>Explosive Armor Compensation</notes>
+  </entry>
+  <entry skillID="22809" skill="Thermal Armor Compensation" level="1" priority="3" type="Planned">
+    <notes>Thermal Armor Compensation</notes>
+  </entry>
+  <entry skillID="22808" skill="Kinetic Armor Compensation" level="1" priority="3" type="Planned">
+    <notes>Kinetic Armor Compensation</notes>
+  </entry>
+  <entry skillID="3392" skill="Mechanics" level="4" priority="3" type="Planned">
+    <notes>Mechanics</notes>
+  </entry>
+  <entry skillID="3393" skill="Repair Systems" level="2" priority="3" type="Prerequisite">
+    <notes>Remote Armor Repair Systems, Capital Remote Armor Repair Systems</notes>
+  </entry>
+  <entry skillID="3393" skill="Repair Systems" level="3" priority="3" type="Planned">
+    <notes>Repair Systems</notes>
+  </entry>
+  <entry skillID="3393" skill="Repair Systems" level="4" priority="3" type="Planned">
+    <notes>Repair Systems</notes>
+  </entry>
+  <entry skillID="3363" skill="Corporation Management" level="1" priority="3" type="Planned">
+    <notes>Corporation Management</notes>
+  </entry>
+  <entry skillID="3436" skill="Drones" level="2" priority="3" type="Prerequisite">
+    <notes>Drone Interfacing, Drone Navigation, Light Drone Operation, Medium Drone Operation, Repair Drone Operation</notes>
+  </entry>
+  <entry skillID="3436" skill="Drones" level="3" priority="3" type="Prerequisite">
+    <notes>Drone Interfacing, Drone Navigation, Light Drone Operation, Medium Drone Operation, Repair Drone Operation</notes>
+  </entry>
+  <entry skillID="24241" skill="Light Drone Operation" level="1" priority="3" type="Planned">
+    <notes>Light Drone Operation</notes>
+  </entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="2" priority="3" type="Planned">
+    <notes>Electronic Warfare</notes>
+  </entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="3" priority="3" type="Planned">
+    <notes>Electronic Warfare</notes>
+  </entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="4" priority="3" type="Planned">
+    <notes>Electronic Warfare</notes>
+  </entry>
+  <entry skillID="3435" skill="Propulsion Jamming" level="2" priority="3" type="Planned">
+    <notes>Propulsion Jamming</notes>
+  </entry>
+  <entry skillID="3435" skill="Propulsion Jamming" level="3" priority="3" type="Planned">
+    <notes>Propulsion Jamming</notes>
+  </entry>
+  <entry skillID="3434" skill="Weapon Disruption" level="1" priority="3" type="Planned">
+    <notes>Weapon Disruption</notes>
+  </entry>
+  <entry skillID="3434" skill="Weapon Disruption" level="2" priority="3" type="Planned">
+    <notes>Weapon Disruption</notes>
+  </entry>
+  <entry skillID="3434" skill="Weapon Disruption" level="3" priority="3" type="Planned">
+    <notes>Weapon Disruption</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="3" priority="3" type="Prerequisite">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="4" priority="3" type="Prerequisite">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="1" priority="3" type="Planned">
+    <notes>Advanced Weapon Upgrades</notes>
+  </entry>
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="1" priority="3" type="Planned">
+    <notes>Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="2" priority="3" type="Planned">
+    <notes>Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="3" priority="3" type="Planned">
+    <notes>Capacitor Emission Systems</notes>
+  </entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="4" priority="3" type="Planned">
+    <notes>Electronics Upgrades</notes>
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="2" priority="3" type="Planned">
+    <notes>Energy Grid Upgrades</notes>
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="3" priority="3" type="Planned">
+    <notes>Energy Grid Upgrades</notes>
+  </entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="4" priority="3" type="Planned">
+    <notes>Energy Grid Upgrades</notes>
+  </entry>
+  <entry skillID="3421" skill="Energy Pulse Weapons" level="1" priority="3" type="Planned">
+    <notes>Energy Pulse Weapons</notes>
+  </entry>
+  <entry skillID="3421" skill="Energy Pulse Weapons" level="2" priority="3" type="Planned">
+    <notes>Energy Pulse Weapons</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="2" priority="3" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="28164" skill="Thermodynamics" level="3" priority="3" type="Planned">
+    <notes>Thermodynamics</notes>
+  </entry>
+  <entry skillID="3316" skill="Controlled Bursts" level="3" priority="3" type="Planned">
+    <notes>Controlled Bursts</notes>
+  </entry>
+  <entry skillID="3316" skill="Controlled Bursts" level="4" priority="3" type="Planned">
+    <notes>Controlled Bursts</notes>
+  </entry>
+  <entry skillID="3300" skill="Gunnery" level="5" priority="3" type="Planned">
+    <notes>Gunnery</notes>
+  </entry>
+  <entry skillID="3301" skill="Small Hybrid Turret" level="4" priority="3" type="Planned">
+    <notes>Small Hybrid Turret</notes>
+  </entry>
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="1" priority="3" type="Planned">
+    <notes>Medium Hybrid Turret</notes>
+  </entry>
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="2" priority="3" type="Planned">
+    <notes>Medium Hybrid Turret</notes>
+  </entry>
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="3" priority="3" type="Planned">
+    <notes>Medium Hybrid Turret</notes>
+  </entry>
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="4" priority="3" type="Planned">
+    <notes>Medium Hybrid Turret</notes>
+  </entry>
+  <entry skillID="3312" skill="Motion Prediction" level="3" priority="3" type="Planned">
+    <notes>Motion Prediction</notes>
+  </entry>
+  <entry skillID="3312" skill="Motion Prediction" level="4" priority="3" type="Planned">
+    <notes>Motion Prediction</notes>
+  </entry>
+  <entry skillID="3310" skill="Rapid Firing" level="4" priority="3" type="Planned">
+    <notes>Rapid Firing</notes>
+  </entry>
+  <entry skillID="3311" skill="Sharpshooter" level="4" priority="3" type="Planned">
+    <notes>Sharpshooter</notes>
+  </entry>
+  <entry skillID="3315" skill="Surgical Strike" level="2" priority="3" type="Planned">
+    <notes>Surgical Strike</notes>
+  </entry>
+  <entry skillID="3315" skill="Surgical Strike" level="3" priority="3" type="Planned">
+    <notes>Surgical Strike</notes>
+  </entry>
+  <entry skillID="3315" skill="Surgical Strike" level="4" priority="3" type="Planned">
+    <notes>Surgical Strike</notes>
+  </entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="2" priority="3" type="Planned">
+    <notes>Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="3" priority="3" type="Planned">
+    <notes>Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="4" priority="3" type="Planned">
+    <notes>Trajectory Analysis</notes>
+  </entry>
+  <entry skillID="3348" skill="Leadership" level="1" priority="3" type="Planned">
+    <notes>Leadership, Security Connections</notes>
+  </entry>
+  <entry skillID="3348" skill="Leadership" level="2" priority="3" type="Planned">
+    <notes>Leadership, Security Connections</notes>
+  </entry>
+  <entry skillID="3348" skill="Leadership" level="3" priority="3" type="Planned">
+    <notes>Leadership, Security Connections</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="2" priority="3" type="Planned">
+    <notes>Missile Launcher Operation, Light Missiles, Heavy Assault Missiles, Heavy Missiles, Missile Projection, Rapid Launch, Target Navigation Prediction, Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="3" priority="3" type="Planned">
+    <notes>Missile Launcher Operation, Heavy Assault Missiles, Heavy Missiles, Missile Projection, Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="4" priority="3" type="Planned">
+    <notes>Missile Launcher Operation, Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="3319" skill="Missile Launcher Operation" level="5" priority="3" type="Planned">
+    <notes>Missile Launcher Operation</notes>
+  </entry>
+  <entry skillID="3321" skill="Light Missiles" level="1" priority="3" type="Planned">
+    <notes>Light Missiles, Heavy Assault Missiles, Heavy Missiles</notes>
+  </entry>
+  <entry skillID="3321" skill="Light Missiles" level="2" priority="3" type="Planned">
+    <notes>Light Missiles, Heavy Assault Missiles, Heavy Missiles</notes>
+  </entry>
+  <entry skillID="3321" skill="Light Missiles" level="3" priority="3" type="Planned">
+    <notes>Light Missiles, Heavy Assault Missiles, Heavy Missiles</notes>
+  </entry>
+  <entry skillID="3321" skill="Light Missiles" level="4" priority="3" type="Planned">
+    <notes>Light Missiles</notes>
+  </entry>
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="1" priority="3" type="Planned">
+    <notes>Heavy Assault Missiles</notes>
+  </entry>
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="2" priority="3" type="Planned">
+    <notes>Heavy Assault Missiles</notes>
+  </entry>
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="3" priority="3" type="Planned">
+    <notes>Heavy Assault Missiles</notes>
+  </entry>
+  <entry skillID="3324" skill="Heavy Missiles" level="1" priority="3" type="Planned">
+    <notes>Heavy Missiles</notes>
+  </entry>
+  <entry skillID="3324" skill="Heavy Missiles" level="2" priority="3" type="Planned">
+    <notes>Heavy Missiles</notes>
+  </entry>
+  <entry skillID="3324" skill="Heavy Missiles" level="3" priority="3" type="Planned">
+    <notes>Heavy Missiles</notes>
+  </entry>
+  <entry skillID="3324" skill="Heavy Missiles" level="4" priority="3" type="Planned">
+    <notes>Heavy Missiles</notes>
+  </entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="1" priority="3" type="Planned">
+    <notes>Missile Bombardment</notes>
+  </entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="2" priority="3" type="Planned">
+    <notes>Missile Bombardment</notes>
+  </entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="3" priority="3" type="Planned">
+    <notes>Missile Bombardment</notes>
+  </entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="4" priority="3" type="Planned">
+    <notes>Missile Bombardment</notes>
+  </entry>
+  <entry skillID="12442" skill="Missile Projection" level="1" priority="3" type="Planned">
+    <notes>Missile Projection</notes>
+  </entry>
+  <entry skillID="12442" skill="Missile Projection" level="2" priority="3" type="Planned">
+    <notes>Missile Projection</notes>
+  </entry>
+  <entry skillID="21071" skill="Rapid Launch" level="1" priority="3" type="Planned">
+    <notes>Rapid Launch</notes>
+  </entry>
+  <entry skillID="21071" skill="Rapid Launch" level="2" priority="3" type="Planned">
+    <notes>Rapid Launch</notes>
+  </entry>
+  <entry skillID="21071" skill="Rapid Launch" level="3" priority="3" type="Planned">
+    <notes>Rapid Launch</notes>
+  </entry>
+  <entry skillID="21071" skill="Rapid Launch" level="4" priority="3" type="Planned">
+    <notes>Rapid Launch</notes>
+  </entry>
+  <entry skillID="3320" skill="Rockets" level="1" priority="3" type="Planned">
+    <notes>Rockets</notes>
+  </entry>
+  <entry skillID="3320" skill="Rockets" level="2" priority="3" type="Planned">
+    <notes>Rockets</notes>
+  </entry>
+  <entry skillID="3320" skill="Rockets" level="3" priority="3" type="Planned">
+    <notes>Rockets</notes>
+  </entry>
+  <entry skillID="3320" skill="Rockets" level="4" priority="3" type="Planned">
+    <notes>Rockets</notes>
+  </entry>
+  <entry skillID="20314" skill="Target Navigation Prediction" level="1" priority="3" type="Planned">
+    <notes>Target Navigation Prediction</notes>
+  </entry>
+  <entry skillID="20314" skill="Target Navigation Prediction" level="2" priority="3" type="Planned">
+    <notes>Target Navigation Prediction</notes>
+  </entry>
+  <entry skillID="20314" skill="Target Navigation Prediction" level="3" priority="3" type="Planned">
+    <notes>Target Navigation Prediction</notes>
+  </entry>
+  <entry skillID="20315" skill="Warhead Upgrades" level="1" priority="3" type="Planned">
+    <notes>Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="20315" skill="Warhead Upgrades" level="2" priority="3" type="Planned">
+    <notes>Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="20315" skill="Warhead Upgrades" level="3" priority="3" type="Planned">
+    <notes>Warhead Upgrades</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="2" priority="3" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3452" skill="Acceleration Control" level="3" priority="3" type="Planned">
+    <notes>Acceleration Control</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="2" priority="3" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="3" priority="3" type="Planned">
+    <notes>Evasive Maneuvering</notes>
+  </entry>
+  <entry skillID="3454" skill="High Speed Maneuvering" level="2" priority="3" type="Planned">
+    <notes>High Speed Maneuvering</notes>
+  </entry>
+  <entry skillID="3454" skill="High Speed Maneuvering" level="3" priority="3" type="Planned">
+    <notes>High Speed Maneuvering</notes>
+  </entry>
+  <entry skillID="3449" skill="Navigation" level="4" priority="3" type="Planned">
+    <notes>Navigation</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="2" priority="3" type="Planned">
+    <notes>Warp Drive Operation</notes>
+  </entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="3" priority="3" type="Planned">
+    <notes>Warp Drive Operation</notes>
+  </entry>
+  <entry skillID="3405" skill="Biology" level="1" priority="3" type="Planned">
+    <notes>Biology</notes>
+  </entry>
+  <entry skillID="3405" skill="Biology" level="2" priority="3" type="Planned">
+    <notes>Biology</notes>
+  </entry>
+  <entry skillID="3405" skill="Biology" level="3" priority="3" type="Planned">
+    <notes>Biology</notes>
+  </entry>
+  <entry skillID="3411" skill="Cybernetics" level="2" priority="3" type="Planned">
+    <notes>Cybernetics</notes>
+  </entry>
+  <entry skillID="3411" skill="Cybernetics" level="3" priority="3" type="Planned">
+    <notes>Cybernetics</notes>
+  </entry>
+  <entry skillID="3380" skill="Industry" level="2" priority="3" type="Planned">
+    <notes>Industry, Mass Production, Mining Connections</notes>
+  </entry>
+  <entry skillID="3380" skill="Industry" level="3" priority="3" type="Planned">
+    <notes>Industry, Mass Production, Mining Connections</notes>
+  </entry>
+  <entry skillID="3380" skill="Industry" level="4" priority="3" type="Planned">
+    <notes>Industry</notes>
+  </entry>
+  <entry skillID="3380" skill="Industry" level="5" priority="3" type="Planned">
+    <notes>Industry</notes>
+  </entry>
+  <entry skillID="3387" skill="Mass Production" level="1" priority="3" type="Planned">
+    <notes>Mass Production</notes>
+  </entry>
+  <entry skillID="3387" skill="Mass Production" level="2" priority="3" type="Planned">
+    <notes>Mass Production</notes>
+  </entry>
+  <entry skillID="3387" skill="Mass Production" level="3" priority="3" type="Planned">
+    <notes>Mass Production</notes>
+  </entry>
+  <entry skillID="3386" skill="Mining" level="4" priority="3" type="Planned">
+    <notes>Mining</notes>
+  </entry>
+  <entry skillID="22578" skill="Mining Upgrades" level="1" priority="3" type="Planned">
+    <notes>Mining Upgrades</notes>
+  </entry>
+  <entry skillID="22578" skill="Mining Upgrades" level="2" priority="3" type="Planned">
+    <notes>Mining Upgrades</notes>
+  </entry>
+  <entry skillID="22578" skill="Mining Upgrades" level="3" priority="3" type="Planned">
+    <notes>Mining Upgrades</notes>
+  </entry>
+  <entry skillID="22578" skill="Mining Upgrades" level="4" priority="3" type="Planned">
+    <notes>Mining Upgrades</notes>
+  </entry>
+  <entry skillID="3385" skill="Reprocessing" level="1" priority="3" type="Planned">
+    <notes>Reprocessing</notes>
+  </entry>
+  <entry skillID="3385" skill="Reprocessing" level="2" priority="3" type="Planned">
+    <notes>Reprocessing</notes>
+  </entry>
+  <entry skillID="3385" skill="Reprocessing" level="3" priority="3" type="Planned">
+    <notes>Reprocessing</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="1" priority="3" type="Prerequisite">
+    <notes>Armor Rigging, Astronautics Rigging, Drones Rigging, Electronic Superiority Rigging, Energy Weapon Rigging, Hybrid Weapon Rigging, Shield Rigging, Launcher Rigging</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="2" priority="3" type="Prerequisite">
+    <notes>Armor Rigging, Astronautics Rigging, Drones Rigging, Electronic Superiority Rigging, Energy Weapon Rigging, Hybrid Weapon Rigging, Shield Rigging, Launcher Rigging</notes>
+  </entry>
+  <entry skillID="26252" skill="Jury Rigging" level="3" priority="3" type="Prerequisite">
+    <notes>Armor Rigging, Astronautics Rigging, Drones Rigging, Electronic Superiority Rigging, Energy Weapon Rigging, Hybrid Weapon Rigging, Shield Rigging, Launcher Rigging</notes>
+  </entry>
+  <entry skillID="26254" skill="Astronautics Rigging" level="1" priority="3" type="Planned">
+    <notes>Astronautics Rigging</notes>
+  </entry>
+  <entry skillID="26254" skill="Astronautics Rigging" level="2" priority="3" type="Planned">
+    <notes>Astronautics Rigging</notes>
+  </entry>
+  <entry skillID="26255" skill="Drones Rigging" level="1" priority="3" type="Planned">
+    <notes>Drones Rigging</notes>
+  </entry>
+  <entry skillID="26255" skill="Drones Rigging" level="2" priority="3" type="Planned">
+    <notes>Drones Rigging</notes>
+  </entry>
+  <entry skillID="26256" skill="Electronic Superiority Rigging" level="1" priority="3" type="Planned">
+    <notes>Electronic Superiority Rigging</notes>
+  </entry>
+  <entry skillID="26256" skill="Electronic Superiority Rigging" level="2" priority="3" type="Planned">
+    <notes>Electronic Superiority Rigging</notes>
+  </entry>
+  <entry skillID="26259" skill="Hybrid Weapon Rigging" level="1" priority="3" type="Planned">
+    <notes>Hybrid Weapon Rigging</notes>
+  </entry>
+  <entry skillID="26259" skill="Hybrid Weapon Rigging" level="2" priority="3" type="Planned">
+    <notes>Hybrid Weapon Rigging</notes>
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="1" priority="3" type="Planned">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="26261" skill="Shield Rigging" level="2" priority="3" type="Planned">
+    <notes>Shield Rigging</notes>
+  </entry>
+  <entry skillID="26260" skill="Launcher Rigging" level="1" priority="3" type="Planned">
+    <notes>Launcher Rigging</notes>
+  </entry>
+  <entry skillID="26260" skill="Launcher Rigging" level="2" priority="3" type="Planned">
+    <notes>Launcher Rigging</notes>
+  </entry>
+  <entry skillID="13278" skill="Archaeology" level="2" priority="3" type="Planned">
+    <notes>Archaeology</notes>
+  </entry>
+  <entry skillID="13278" skill="Archaeology" level="3" priority="3" type="Planned">
+    <notes>Archaeology</notes>
+  </entry>
+  <entry skillID="25811" skill="Astrometric Acquisition" level="2" priority="3" type="Planned">
+    <notes>Astrometric Acquisition</notes>
+  </entry>
+  <entry skillID="25739" skill="Astrometric Rangefinding" level="2" priority="3" type="Planned">
+    <notes>Astrometric Rangefinding</notes>
+  </entry>
+  <entry skillID="21718" skill="Hacking" level="2" priority="3" type="Planned">
+    <notes>Hacking</notes>
+  </entry>
+  <entry skillID="21718" skill="Hacking" level="3" priority="3" type="Planned">
+    <notes>Hacking</notes>
+  </entry>
+  <entry skillID="3416" skill="Shield Operation" level="4" priority="3" type="Prerequisite">
+    <notes>EM Shield Compensation, Explosive Shield Compensation, Kinetic Shield Compensation, Thermal Shield Compensation</notes>
+  </entry>
+  <entry skillID="12365" skill="EM Shield Compensation" level="1" priority="3" type="Planned">
+    <notes>EM Shield Compensation</notes>
+  </entry>
+  <entry skillID="12367" skill="Explosive Shield Compensation" level="1" priority="3" type="Planned">
+    <notes>Explosive Shield Compensation</notes>
+  </entry>
+  <entry skillID="12366" skill="Kinetic Shield Compensation" level="1" priority="3" type="Planned">
+    <notes>Kinetic Shield Compensation</notes>
+  </entry>
+  <entry skillID="21059" skill="Shield Compensation" level="1" priority="3" type="Planned">
+    <notes>Shield Compensation</notes>
+  </entry>
+  <entry skillID="21059" skill="Shield Compensation" level="2" priority="3" type="Planned">
+    <notes>Shield Compensation</notes>
+  </entry>
+  <entry skillID="21059" skill="Shield Compensation" level="3" priority="3" type="Planned">
+    <notes>Shield Compensation</notes>
+  </entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="1" priority="3" type="Planned">
+    <notes>Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="2" priority="3" type="Planned">
+    <notes>Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="3" priority="3" type="Planned">
+    <notes>Shield Emission Systems</notes>
+  </entry>
+  <entry skillID="3419" skill="Shield Management" level="3" priority="3" type="Planned">
+    <notes>Shield Management</notes>
+  </entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="3" priority="3" type="Planned">
+    <notes>Shield Upgrades</notes>
+  </entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="3" type="Planned">
+    <notes>Tactical Shield Manipulation</notes>
+  </entry>
+  <entry skillID="11566" skill="Thermal Shield Compensation" level="1" priority="3" type="Planned">
+    <notes>Thermal Shield Compensation</notes>
+  </entry>
+  <entry skillID="3355" skill="Social" level="1" priority="3" type="Prerequisite">
+    <notes>Connections, Criminal Connections, Diplomacy, Distribution Connections, Mining Connections, Negotiation, Security Connections</notes>
+  </entry>
+  <entry skillID="3355" skill="Social" level="2" priority="3" type="Prerequisite">
+    <notes>Connections, Criminal Connections, Diplomacy, Distribution Connections, Mining Connections, Security Connections</notes>
+  </entry>
+  <entry skillID="3355" skill="Social" level="3" priority="3" type="Prerequisite">
+    <notes>Connections, Criminal Connections, Distribution Connections, Mining Connections, Security Connections</notes>
+  </entry>
+  <entry skillID="3359" skill="Connections" level="1" priority="3" type="Planned">
+    <notes>Connections</notes>
+  </entry>
+  <entry skillID="3359" skill="Connections" level="2" priority="3" type="Planned">
+    <notes>Connections</notes>
+  </entry>
+  <entry skillID="3361" skill="Criminal Connections" level="1" priority="3" type="Planned">
+    <notes>Criminal Connections</notes>
+  </entry>
+  <entry skillID="3361" skill="Criminal Connections" level="2" priority="3" type="Planned">
+    <notes>Criminal Connections</notes>
+  </entry>
+  <entry skillID="3357" skill="Diplomacy" level="1" priority="3" type="Planned">
+    <notes>Diplomacy</notes>
+  </entry>
+  <entry skillID="3357" skill="Diplomacy" level="2" priority="3" type="Planned">
+    <notes>Diplomacy</notes>
+  </entry>
+  <entry skillID="3357" skill="Diplomacy" level="3" priority="3" type="Planned">
+    <notes>Diplomacy</notes>
+  </entry>
+  <entry skillID="3443" skill="Trade" level="3" priority="3" type="Prerequisite">
+    <notes>Distribution Connections</notes>
+  </entry>
+  <entry skillID="3894" skill="Distribution Connections" level="1" priority="3" type="Planned">
+    <notes>Distribution Connections</notes>
+  </entry>
+  <entry skillID="3894" skill="Distribution Connections" level="2" priority="3" type="Planned">
+    <notes>Distribution Connections</notes>
+  </entry>
+  <entry skillID="3893" skill="Mining Connections" level="1" priority="3" type="Planned">
+    <notes>Mining Connections</notes>
+  </entry>
+  <entry skillID="3893" skill="Mining Connections" level="2" priority="3" type="Planned">
+    <notes>Mining Connections</notes>
+  </entry>
+  <entry skillID="3356" skill="Negotiation" level="1" priority="3" type="Planned">
+    <notes>Negotiation</notes>
+  </entry>
+  <entry skillID="3356" skill="Negotiation" level="2" priority="3" type="Planned">
+    <notes>Negotiation</notes>
+  </entry>
+  <entry skillID="3895" skill="Security Connections" level="1" priority="3" type="Planned">
+    <notes>Security Connections</notes>
+  </entry>
+  <entry skillID="3895" skill="Security Connections" level="2" priority="3" type="Planned">
+    <notes>Security Connections</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="1" priority="3" type="Prerequisite">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="2" priority="3" type="Prerequisite">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="3" priority="3" type="Prerequisite">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="1" priority="3" type="Planned">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="2" priority="3" type="Planned">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="3" priority="3" type="Planned">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="3334" skill="Caldari Cruiser" level="4" priority="3" type="Planned">
+    <notes>Caldari Cruiser</notes>
+  </entry>
+  <entry skillID="33092" skill="Caldari Destroyer" level="4" priority="3" type="Planned">
+    <notes>Caldari Destroyer</notes>
+  </entry>
+  <entry skillID="3330" skill="Caldari Frigate" level="4" priority="3" type="Planned">
+    <notes>Caldari Frigate</notes>
+  </entry>
+  <entry skillID="32918" skill="Mining Frigate" level="2" priority="3" type="Planned">
+    <notes>Mining Frigate</notes>
+  </entry>
+  <entry skillID="32918" skill="Mining Frigate" level="3" priority="3" type="Planned">
+    <notes>Mining Frigate</notes>
+  </entry>
+  <entry skillID="32918" skill="Mining Frigate" level="4" priority="3" type="Planned">
+    <notes>Mining Frigate</notes>
+  </entry>
+  <entry skillID="11584" skill="Anchoring" level="1" priority="3" type="Planned">
+    <notes>Anchoring</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="2" priority="3" type="Planned">
+    <notes>Long Range Targeting</notes>
+  </entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="3" priority="3" type="Planned">
+    <notes>Long Range Targeting</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="2" priority="3" type="Planned">
+    <notes>Signature Analysis</notes>
+  </entry>
+  <entry skillID="3431" skill="Signature Analysis" level="3" priority="3" type="Planned">
+    <notes>Signature Analysis</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="3" priority="3" type="Planned">
+    <notes>Target Management</notes>
+  </entry>
+  <entry skillID="3429" skill="Target Management" level="4" priority="3" type="Planned">
+    <notes>Target Management</notes>
+  </entry>
+  <entry skillID="3446" skill="Broker Relations" level="1" priority="3" type="Planned">
+    <notes>Broker Relations</notes>
+  </entry>
+  <entry skillID="3446" skill="Broker Relations" level="2" priority="3" type="Planned">
+    <notes>Broker Relations</notes>
+  </entry>
+  <entry skillID="16598" skill="Marketing" level="1" priority="3" type="Planned">
+    <notes>Marketing</notes>
+  </entry>
+  <entry skillID="16598" skill="Marketing" level="2" priority="3" type="Planned">
+    <notes>Marketing</notes>
+  </entry>
+</plan>
