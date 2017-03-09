@@ -7,6 +7,9 @@
   <entry skillID="33078" skill="Armor Layering" level="1" priority="3" type="Planned">
     <notes>Armor Layering</notes>
   </entry>
+  <entry skillID="24242" skill="Infomorph Psychology" level="1" priority="3" type="Planned">
+    <notes>Infomorph Psychology</notes>
+  </entry>
   <entry skillID="3394" skill="Hull Upgrades" level="3" priority="3" type="Prerequisite">
     <notes>EM Armor Compensation, Explosive Armor Compensation, Kinetic Armor Compensation, Thermal Armor Compensation</notes>
   </entry>
@@ -46,6 +49,12 @@
   <entry skillID="3436" skill="Drones" level="3" priority="3" type="Prerequisite">
     <notes>Drone Interfacing, Drone Navigation, Light Drone Operation, Medium Drone Operation, Repair Drone Operation</notes>
   </entry>
+  <entry skillID="3436" skill="Drones" level="4" priority="3" type="Prerequisite">
+    <notes>Drone Interfacing, Drone Navigation, Light Drone Operation, Medium Drone Operation, Repair Drone Operation</notes>
+  </entry>
+  <entry skillID="3436" skill="Drones" level="5" priority="3" type="Prerequisite">
+    <notes>Drone Interfacing, Drone Navigation, Light Drone Operation, Medium Drone Operation, Repair Drone Operation</notes>
+  </entry>
   <entry skillID="24241" skill="Light Drone Operation" level="1" priority="3" type="Planned">
     <notes>Light Drone Operation</notes>
   </entry>
@@ -53,9 +62,6 @@
     <notes>Electronic Warfare</notes>
   </entry>
   <entry skillID="3427" skill="Electronic Warfare" level="3" priority="3" type="Planned">
-    <notes>Electronic Warfare</notes>
-  </entry>
-  <entry skillID="3427" skill="Electronic Warfare" level="4" priority="3" type="Planned">
     <notes>Electronic Warfare</notes>
   </entry>
   <entry skillID="3435" skill="Propulsion Jamming" level="2" priority="3" type="Planned">
@@ -600,6 +606,12 @@
   </entry>
   <entry skillID="3429" skill="Target Management" level="4" priority="3" type="Planned">
     <notes>Target Management</notes>
+  </entry>
+  <entry skillID="25544" skill="Gas Cloud Harvesting" level="1" priority="3" type="Planned">
+    <notes>Gas Cloud Harvesting</notes>
+  </entry>
+  <entry skillID="25544" skill="Gas Cloud Harvesting" level="2" priority="3" type="Planned">
+    <notes>Gas Cloud Harvesting</notes>
   </entry>
   <entry skillID="3446" skill="Broker Relations" level="1" priority="3" type="Planned">
     <notes>Broker Relations</notes>
