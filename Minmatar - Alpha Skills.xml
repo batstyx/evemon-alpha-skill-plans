@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Alpha Skills" owner="fb1ec094-94e6-450e-a38f-1696b25669aa" revision="4658">
   <sorting criteria="None" order="None" groupByPriority="false" />
   <entry skillID="3392" skill="Mechanics" level="3" priority="3" type="Prerequisite">
@@ -541,40 +541,40 @@
   <entry skillID="3895" skill="Security Connections" level="2" priority="3" type="Planned">
     <notes>Security Connections</notes>
   </entry>
-  <entry skillID="3330" skill="Caldari Frigate" level="1" priority="3" type="Prerequisite">
+  <entry skillID="3329" skill="Minmatar Frigate" level="1" priority="3" type="Prerequisite">
     <notes />
   </entry>
-  <entry skillID="3330" skill="Caldari Frigate" level="2" priority="3" type="Prerequisite">
+  <entry skillID="3329" skill="Minmatar Frigate" level="2" priority="3" type="Prerequisite">
     <notes />
   </entry>
-  <entry skillID="3330" skill="Caldari Frigate" level="3" priority="3" type="Prerequisite">
+  <entry skillID="3329" skill="Minmatar Frigate" level="3" priority="3" type="Prerequisite">
     <notes />
   </entry>
-  <entry skillID="33092" skill="Caldari Destroyer" level="1" priority="3" type="Prerequisite">
+  <entry skillID="33094" skill="Minmatar Destroyer" level="1" priority="3" type="Prerequisite">
     <notes>Caldari Cruiser</notes>
   </entry>
-  <entry skillID="33092" skill="Caldari Destroyer" level="2" priority="3" type="Prerequisite">
+  <entry skillID="33094" skill="Minmatar Destroyer" level="2" priority="3" type="Prerequisite">
     <notes>Caldari Cruiser</notes>
   </entry>
-  <entry skillID="33092" skill="Caldari Destroyer" level="3" priority="3" type="Prerequisite">
+  <entry skillID="33094" skill="Minmatar Destroyer" level="3" priority="3" type="Prerequisite">
     <notes>Caldari Cruiser</notes>
   </entry>
-  <entry skillID="3334" skill="Caldari Cruiser" level="1" priority="3" type="Planned">
+  <entry skillID="3333" skill="Minmatar Cruiser" level="1" priority="3" type="Planned">
     <notes>Caldari Cruiser</notes>
   </entry>
-  <entry skillID="3334" skill="Caldari Cruiser" level="2" priority="3" type="Planned">
+  <entry skillID="3333" skill="Minmatar Cruiser" level="2" priority="3" type="Planned">
     <notes>Caldari Cruiser</notes>
   </entry>
-  <entry skillID="3334" skill="Caldari Cruiser" level="3" priority="3" type="Planned">
+  <entry skillID="3333" skill="Minmatar Cruiser" level="3" priority="3" type="Planned">
     <notes>Caldari Cruiser</notes>
   </entry>
-  <entry skillID="3334" skill="Caldari Cruiser" level="4" priority="3" type="Planned">
+  <entry skillID="3333" skill="Minmatar Cruiser" level="4" priority="3" type="Planned">
     <notes>Caldari Cruiser</notes>
   </entry>
-  <entry skillID="33092" skill="Caldari Destroyer" level="4" priority="3" type="Planned">
+  <entry skillID="33094" skill="Minmatar Destroyer" level="4" priority="3" type="Planned">
     <notes>Caldari Destroyer</notes>
   </entry>
-  <entry skillID="3330" skill="Caldari Frigate" level="4" priority="3" type="Planned">
+  <entry skillID="3329" skill="Minmatar Frigate" level="4" priority="3" type="Planned">
     <notes>Caldari Frigate</notes>
   </entry>
   <entry skillID="32918" skill="Mining Frigate" level="2" priority="3" type="Planned">
