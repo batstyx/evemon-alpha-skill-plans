@@ -13,4 +13,4 @@ Skills are ordered by group and then alphabetically excepting prerequisites.
 
 Report any errors [here](https://github.com/batstyx/evemon-alpha-skill-plans/issues/new) or alternatively [clone the repo](github-windows://openRepo/https://github.com/batstyx/evemon-alpha-skill-plans) (requires [GitHub Desktop](https://desktop.github.com/)) and fix it yourself ;)
 
-Download zip of latest version [here](https://github.com/batstyx/evemon-alpha-skill-plans/releases)
+Download zip of latest version [here](https://github.com/batstyx/evemon-alpha-skill-plans/releases/latest)
