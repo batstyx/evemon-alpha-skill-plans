@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Alpha Skills" owner="bb13a8d2-cd83-4c45-8727-b33536f81141" revision="4658">
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Alpha Skills" revision="4658">
   <sorting criteria="None" order="None" groupByPriority="false" />
   <entry skillID="3392" skill="Mechanics" level="3" priority="3" type="Prerequisite" />
   <entry skillID="33078" skill="Armor Layering" level="1" priority="3" type="Planned" />
