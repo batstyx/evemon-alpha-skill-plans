@@ -39,6 +39,9 @@
   <entry skillID="33699" skill="Medium Drone Operation" level="2" priority="3" type="Planned" />
   <entry skillID="33699" skill="Medium Drone Operation" level="3" priority="3" type="Planned" />
   <entry skillID="23618" skill="Drone Durability" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="23618" skill="Drone Durability" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="23618" skill="Drone Durability" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="23618" skill="Drone Durability" level="4" priority="3" type="Prerequisite" />
   <entry skillID="3439" skill="Repair Drone Operation" level="1" priority="3" type="Planned" />
   <entry skillID="3439" skill="Repair Drone Operation" level="2" priority="3" type="Planned" />
   <entry skillID="3427" skill="Electronic Warfare" level="2" priority="3" type="Planned" />
