@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3392" skill="Mechanics" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33078" skill="Armor Layering" level="1" priority="3" type="Planned" />
+  <entry skillID="3394" skill="Hull Upgrades" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3394" skill="Hull Upgrades" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="22806" skill="EM Armor Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="22806" skill="EM Armor Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="22807" skill="Explosive Armor Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="22807" skill="Explosive Armor Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="3394" skill="Hull Upgrades" level="5" priority="3" type="Planned" />
+  <entry skillID="22808" skill="Kinetic Armor Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="22808" skill="Kinetic Armor Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="3392" skill="Mechanics" level="4" priority="3" type="Planned" />
+  <entry skillID="3392" skill="Mechanics" level="5" priority="3" type="Planned" />
+  <entry skillID="3393" skill="Repair Systems" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="1" priority="3" type="Planned" />
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="2" priority="3" type="Planned" />
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="3" priority="3" type="Planned" />
+  <entry skillID="27902" skill="Remote Hull Repair Systems" level="1" priority="3" type="Planned" />
+  <entry skillID="27902" skill="Remote Hull Repair Systems" level="2" priority="3" type="Planned" />
+  <entry skillID="3393" skill="Repair Systems" level="3" priority="3" type="Planned" />
+  <entry skillID="3393" skill="Repair Systems" level="4" priority="3" type="Planned" />
+  <entry skillID="3393" skill="Repair Systems" level="5" priority="3" type="Planned" />
+  <entry skillID="22809" skill="Thermal Armor Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="22809" skill="Thermal Armor Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="3363" skill="Corporation Management" level="1" priority="3" type="Planned" />
+  <entry skillID="3437" skill="Drone Avionics" level="2" priority="3" type="Planned" />
+  <entry skillID="3437" skill="Drone Avionics" level="3" priority="3" type="Planned" />
+  <entry skillID="3437" skill="Drone Avionics" level="4" priority="3" type="Planned" />
+  <entry skillID="3436" skill="Drones" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3436" skill="Drones" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3436" skill="Drones" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="23618" skill="Drone Durability" level="1" priority="3" type="Planned" />
+  <entry skillID="23618" skill="Drone Durability" level="2" priority="3" type="Planned" />
+  <entry skillID="23618" skill="Drone Durability" level="3" priority="3" type="Planned" />
+  <entry skillID="23618" skill="Drone Durability" level="4" priority="3" type="Planned" />
+  <entry skillID="3436" skill="Drones" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="3442" skill="Drone Interfacing" level="1" priority="3" type="Planned" />
+  <entry skillID="3442" skill="Drone Interfacing" level="2" priority="3" type="Planned" />
+  <entry skillID="3442" skill="Drone Interfacing" level="3" priority="3" type="Planned" />
+  <entry skillID="3442" skill="Drone Interfacing" level="4" priority="3" type="Planned" />
+  <entry skillID="12305" skill="Drone Navigation" level="1" priority="3" type="Planned" />
+  <entry skillID="12305" skill="Drone Navigation" level="2" priority="3" type="Planned" />
+  <entry skillID="12305" skill="Drone Navigation" level="3" priority="3" type="Planned" />
+  <entry skillID="12305" skill="Drone Navigation" level="4" priority="3" type="Planned" />
+  <entry skillID="23606" skill="Drone Sharpshooting" level="1" priority="3" type="Planned" />
+  <entry skillID="23606" skill="Drone Sharpshooting" level="2" priority="3" type="Planned" />
+  <entry skillID="23606" skill="Drone Sharpshooting" level="3" priority="3" type="Planned" />
+  <entry skillID="23606" skill="Drone Sharpshooting" level="4" priority="3" type="Planned" />
+  <entry skillID="24241" skill="Light Drone Operation" level="1" priority="3" type="Planned" />
+  <entry skillID="24241" skill="Light Drone Operation" level="2" priority="3" type="Planned" />
+  <entry skillID="24241" skill="Light Drone Operation" level="3" priority="3" type="Planned" />
+  <entry skillID="24241" skill="Light Drone Operation" level="4" priority="3" type="Planned" />
+  <entry skillID="24241" skill="Light Drone Operation" level="5" priority="3" type="Planned" />
+  <entry skillID="33699" skill="Medium Drone Operation" level="1" priority="3" type="Planned" />
+  <entry skillID="33699" skill="Medium Drone Operation" level="2" priority="3" type="Planned" />
+  <entry skillID="33699" skill="Medium Drone Operation" level="3" priority="3" type="Planned" />
+  <entry skillID="33699" skill="Medium Drone Operation" level="4" priority="3" type="Planned" />
+  <entry skillID="33699" skill="Medium Drone Operation" level="5" priority="3" type="Planned" />
+  <entry skillID="3439" skill="Repair Drone Operation" level="1" priority="3" type="Planned" />
+  <entry skillID="3439" skill="Repair Drone Operation" level="2" priority="3" type="Planned" />
+  <entry skillID="3441" skill="Heavy Drone Operation" level="1" priority="3" type="Planned" />
+  <entry skillID="3441" skill="Heavy Drone Operation" level="2" priority="3" type="Planned" />
+  <entry skillID="3441" skill="Heavy Drone Operation" level="3" priority="3" type="Planned" />
+  <entry skillID="3441" skill="Heavy Drone Operation" level="4" priority="3" type="Planned" />
+  <entry skillID="12484" skill="Amarr Drone Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12484" skill="Amarr Drone Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12487" skill="Caldari Drone Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12487" skill="Caldari Drone Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12486" skill="Gallente Drone Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12486" skill="Gallente Drone Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12485" skill="Minmatar Drone Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12485" skill="Minmatar Drone Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="3427" skill="Electronic Warfare" level="2" priority="3" type="Planned" />
+  <entry skillID="3427" skill="Electronic Warfare" level="3" priority="3" type="Planned" />
+  <entry skillID="3427" skill="Electronic Warfare" level="4" priority="3" type="Planned" />
+  <entry skillID="3435" skill="Propulsion Jamming" level="2" priority="3" type="Planned" />
+  <entry skillID="3435" skill="Propulsion Jamming" level="3" priority="3" type="Planned" />
+  <entry skillID="3435" skill="Propulsion Jamming" level="4" priority="3" type="Planned" />
+  <entry skillID="3434" skill="Weapon Disruption" level="1" priority="3" type="Planned" />
+  <entry skillID="3434" skill="Weapon Disruption" level="2" priority="3" type="Planned" />
+  <entry skillID="3434" skill="Weapon Disruption" level="3" priority="3" type="Planned" />
+  <entry skillID="3434" skill="Weapon Disruption" level="4" priority="3" type="Planned" />
+  <entry skillID="3433" skill="Sensor Linking" level="1" priority="3" type="Planned" />
+  <entry skillID="3433" skill="Sensor Linking" level="2" priority="3" type="Planned" />
+  <entry skillID="3433" skill="Sensor Linking" level="3" priority="3" type="Planned" />
+  <entry skillID="19921" skill="Target Painting" level="1" priority="3" type="Planned" />
+  <entry skillID="19921" skill="Target Painting" level="2" priority="3" type="Planned" />
+  <entry skillID="19921" skill="Target Painting" level="3" priority="3" type="Planned" />
+  <entry skillID="3318" skill="Weapon Upgrades" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3318" skill="Weapon Upgrades" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="1" priority="3" type="Planned" />
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="2" priority="3" type="Planned" />
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="3" priority="3" type="Planned" />
+  <entry skillID="3426" skill="CPU Management" level="5" priority="3" type="Planned" />
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="1" priority="3" type="Planned" />
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="2" priority="3" type="Planned" />
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="3" priority="3" type="Planned" />
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="4" priority="3" type="Planned" />
+  <entry skillID="3418" skill="Capacitor Management" level="4" priority="3" type="Planned" />
+  <entry skillID="3432" skill="Electronics Upgrades" level="4" priority="3" type="Planned" />
+  <entry skillID="3432" skill="Electronics Upgrades" level="5" priority="3" type="Planned" />
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="2" priority="3" type="Planned" />
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="3" priority="3" type="Planned" />
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="4" priority="3" type="Planned" />
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="5" priority="3" type="Planned" />
+  <entry skillID="3421" skill="Energy Pulse Weapons" level="1" priority="3" type="Planned" />
+  <entry skillID="3421" skill="Energy Pulse Weapons" level="2" priority="3" type="Planned" />
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="3" type="Planned" />
+  <entry skillID="28164" skill="Thermodynamics" level="2" priority="3" type="Planned" />
+  <entry skillID="28164" skill="Thermodynamics" level="3" priority="3" type="Planned" />
+  <entry skillID="28164" skill="Thermodynamics" level="4" priority="3" type="Planned" />
+  <entry skillID="3318" skill="Weapon Upgrades" level="5" priority="3" type="Planned" />
+  <entry skillID="3316" skill="Controlled Bursts" level="3" priority="3" type="Planned" />
+  <entry skillID="3316" skill="Controlled Bursts" level="4" priority="3" type="Planned" />
+  <entry skillID="3300" skill="Gunnery" level="5" priority="3" type="Planned" />
+  <entry skillID="3303" skill="Small Energy Turret" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3303" skill="Small Energy Turret" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3303" skill="Small Energy Turret" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="1" priority="3" type="Planned" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="2" priority="3" type="Planned" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="3" priority="3" type="Planned" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="5" priority="3" type="Planned" />
+  <entry skillID="3312" skill="Motion Prediction" level="3" priority="3" type="Planned" />
+  <entry skillID="3312" skill="Motion Prediction" level="4" priority="3" type="Planned" />
+  <entry skillID="3310" skill="Rapid Firing" level="4" priority="3" type="Planned" />
+  <entry skillID="3311" skill="Sharpshooter" level="4" priority="3" type="Planned" />
+  <entry skillID="3303" skill="Small Energy Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3303" skill="Small Energy Turret" level="5" priority="3" type="Planned" />
+  <entry skillID="3315" skill="Surgical Strike" level="2" priority="3" type="Planned" />
+  <entry skillID="3315" skill="Surgical Strike" level="3" priority="3" type="Planned" />
+  <entry skillID="3315" skill="Surgical Strike" level="4" priority="3" type="Planned" />
+  <entry skillID="3317" skill="Trajectory Analysis" level="2" priority="3" type="Planned" />
+  <entry skillID="3317" skill="Trajectory Analysis" level="3" priority="3" type="Planned" />
+  <entry skillID="3317" skill="Trajectory Analysis" level="4" priority="3" type="Planned" />
+  <entry skillID="12213" skill="Small Pulse Laser Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12213" skill="Small Pulse Laser Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12213" skill="Small Pulse Laser Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12214" skill="Medium Pulse Laser Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12214" skill="Medium Pulse Laser Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12214" skill="Medium Pulse Laser Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="11083" skill="Small Beam Laser Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="11083" skill="Small Beam Laser Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="11083" skill="Small Beam Laser Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12204" skill="Medium Beam Laser Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12204" skill="Medium Beam Laser Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12204" skill="Medium Beam Laser Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3309" skill="Large Energy Turret" level="1" priority="3" type="Planned" />
+  <entry skillID="3309" skill="Large Energy Turret" level="2" priority="3" type="Planned" />
+  <entry skillID="3309" skill="Large Energy Turret" level="3" priority="3" type="Planned" />
+  <entry skillID="3309" skill="Large Energy Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3301" skill="Small Hybrid Turret" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3301" skill="Small Hybrid Turret" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="12210" skill="Small Blaster Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12210" skill="Small Blaster Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12210" skill="Small Blaster Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="12211" skill="Medium Blaster Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12211" skill="Medium Blaster Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12211" skill="Medium Blaster Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="11082" skill="Small Railgun Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="11082" skill="Small Railgun Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="11082" skill="Small Railgun Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12206" skill="Medium Railgun Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12206" skill="Medium Railgun Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12206" skill="Medium Railgun Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3307" skill="Large Hybrid Turret" level="1" priority="3" type="Planned" />
+  <entry skillID="3307" skill="Large Hybrid Turret" level="2" priority="3" type="Planned" />
+  <entry skillID="3307" skill="Large Hybrid Turret" level="3" priority="3" type="Planned" />
+  <entry skillID="3307" skill="Large Hybrid Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="11084" skill="Small Autocannon Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="11084" skill="Small Autocannon Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="11084" skill="Small Autocannon Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="12208" skill="Medium Autocannon Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12208" skill="Medium Autocannon Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12208" skill="Medium Autocannon Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12201" skill="Small Artillery Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12201" skill="Small Artillery Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12201" skill="Small Artillery Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3308" skill="Large Projectile Turret" level="1" priority="3" type="Planned" />
+  <entry skillID="3308" skill="Large Projectile Turret" level="2" priority="3" type="Planned" />
+  <entry skillID="3308" skill="Large Projectile Turret" level="3" priority="3" type="Planned" />
+  <entry skillID="3308" skill="Large Projectile Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3320" skill="Rockets" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3320" skill="Rockets" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3320" skill="Rockets" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3320" skill="Rockets" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3320" skill="Rockets" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="20209" skill="Rocket Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="20209" skill="Rocket Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="20209" skill="Rocket Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3319" skill="Missile Launcher Operation" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3319" skill="Missile Launcher Operation" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3321" skill="Light Missiles" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3321" skill="Light Missiles" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3321" skill="Light Missiles" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="20211" skill="Heavy Missile Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="20211" skill="Heavy Missile Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="20211" skill="Heavy Missile Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3321" skill="Light Missiles" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3321" skill="Light Missiles" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="20210" skill="Light Missile Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="20210" skill="Light Missile Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="20210" skill="Light Missile Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="1" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="2" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="3" priority="3" type="Planned" />
+  <entry skillID="3319" skill="Missile Launcher Operation" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3325" skill="Torpedoes" level="1" priority="3" type="Planned" />
+  <entry skillID="3325" skill="Torpedoes" level="2" priority="3" type="Planned" />
+  <entry skillID="3325" skill="Torpedoes" level="3" priority="3" type="Planned" />
+  <entry skillID="3325" skill="Torpedoes" level="4" priority="3" type="Planned" />
+  <entry skillID="3319" skill="Missile Launcher Operation" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="3326" skill="Cruise Missiles" level="1" priority="3" type="Planned" />
+  <entry skillID="3326" skill="Cruise Missiles" level="2" priority="3" type="Planned" />
+  <entry skillID="3326" skill="Cruise Missiles" level="3" priority="3" type="Planned" />
+  <entry skillID="3326" skill="Cruise Missiles" level="4" priority="3" type="Planned" />
+  <entry skillID="20312" skill="Guided Missile Precision" level="1" priority="3" type="Planned" />
+  <entry skillID="20312" skill="Guided Missile Precision" level="2" priority="3" type="Planned" />
+  <entry skillID="20312" skill="Guided Missile Precision" level="3" priority="3" type="Planned" />
+  <entry skillID="12441" skill="Missile Bombardment" level="1" priority="3" type="Planned" />
+  <entry skillID="12441" skill="Missile Bombardment" level="2" priority="3" type="Planned" />
+  <entry skillID="12441" skill="Missile Bombardment" level="3" priority="3" type="Planned" />
+  <entry skillID="12441" skill="Missile Bombardment" level="4" priority="3" type="Planned" />
+  <entry skillID="12442" skill="Missile Projection" level="1" priority="3" type="Planned" />
+  <entry skillID="12442" skill="Missile Projection" level="2" priority="3" type="Planned" />
+  <entry skillID="21071" skill="Rapid Launch" level="1" priority="3" type="Planned" />
+  <entry skillID="21071" skill="Rapid Launch" level="2" priority="3" type="Planned" />
+  <entry skillID="21071" skill="Rapid Launch" level="3" priority="3" type="Planned" />
+  <entry skillID="21071" skill="Rapid Launch" level="4" priority="3" type="Planned" />
+  <entry skillID="20314" skill="Target Navigation Prediction" level="1" priority="3" type="Planned" />
+  <entry skillID="20314" skill="Target Navigation Prediction" level="2" priority="3" type="Planned" />
+  <entry skillID="20314" skill="Target Navigation Prediction" level="3" priority="3" type="Planned" />
+  <entry skillID="20315" skill="Warhead Upgrades" level="1" priority="3" type="Planned" />
+  <entry skillID="20315" skill="Warhead Upgrades" level="2" priority="3" type="Planned" />
+  <entry skillID="20315" skill="Warhead Upgrades" level="3" priority="3" type="Planned" />
+  <entry skillID="3452" skill="Acceleration Control" level="2" priority="3" type="Planned" />
+  <entry skillID="3452" skill="Acceleration Control" level="3" priority="3" type="Planned" />
+  <entry skillID="3453" skill="Evasive Maneuvering" level="2" priority="3" type="Planned" />
+  <entry skillID="3453" skill="Evasive Maneuvering" level="3" priority="3" type="Planned" />
+  <entry skillID="3454" skill="High Speed Maneuvering" level="2" priority="3" type="Planned" />
+  <entry skillID="3454" skill="High Speed Maneuvering" level="3" priority="3" type="Planned" />
+  <entry skillID="3449" skill="Navigation" level="4" priority="3" type="Planned" />
+  <entry skillID="3455" skill="Warp Drive Operation" level="2" priority="3" type="Planned" />
+  <entry skillID="3455" skill="Warp Drive Operation" level="3" priority="3" type="Planned" />
+  <entry skillID="3405" skill="Biology" level="1" priority="3" type="Planned" />
+  <entry skillID="3405" skill="Biology" level="2" priority="3" type="Planned" />
+  <entry skillID="3405" skill="Biology" level="3" priority="3" type="Planned" />
+  <entry skillID="3411" skill="Cybernetics" level="2" priority="3" type="Planned" />
+  <entry skillID="3411" skill="Cybernetics" level="3" priority="3" type="Planned" />
+  <entry skillID="24242" skill="Infomorph Psychology" level="1" priority="3" type="Planned" />
+  <entry skillID="3380" skill="Industry" level="2" priority="3" type="Planned" />
+  <entry skillID="3380" skill="Industry" level="3" priority="3" type="Planned" />
+  <entry skillID="3380" skill="Industry" level="4" priority="3" type="Planned" />
+  <entry skillID="3380" skill="Industry" level="5" priority="3" type="Planned" />
+  <entry skillID="3387" skill="Mass Production" level="1" priority="3" type="Planned" />
+  <entry skillID="3387" skill="Mass Production" level="2" priority="3" type="Planned" />
+  <entry skillID="3387" skill="Mass Production" level="3" priority="3" type="Planned" />
+  <entry skillID="3386" skill="Mining" level="4" priority="3" type="Planned" />
+  <entry skillID="16281" skill="Ice Harvesting" level="1" priority="3" type="Planned" />
+  <entry skillID="16281" skill="Ice Harvesting" level="2" priority="3" type="Planned" />
+  <entry skillID="22578" skill="Mining Upgrades" level="1" priority="3" type="Planned" />
+  <entry skillID="22578" skill="Mining Upgrades" level="2" priority="3" type="Planned" />
+  <entry skillID="22578" skill="Mining Upgrades" level="3" priority="3" type="Planned" />
+  <entry skillID="22578" skill="Mining Upgrades" level="4" priority="3" type="Planned" />
+  <entry skillID="3385" skill="Reprocessing" level="1" priority="3" type="Planned" />
+  <entry skillID="3385" skill="Reprocessing" level="2" priority="3" type="Planned" />
+  <entry skillID="3385" skill="Reprocessing" level="3" priority="3" type="Planned" />
+  <entry skillID="25544" skill="Gas Cloud Harvesting" level="1" priority="3" type="Planned" />
+  <entry skillID="25544" skill="Gas Cloud Harvesting" level="2" priority="3" type="Planned" />
+  <entry skillID="26252" skill="Jury Rigging" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="26252" skill="Jury Rigging" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="26252" skill="Jury Rigging" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="26253" skill="Armor Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26253" skill="Armor Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26253" skill="Armor Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26254" skill="Astronautics Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26254" skill="Astronautics Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26254" skill="Astronautics Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26255" skill="Drones Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26255" skill="Drones Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26255" skill="Drones Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26259" skill="Hybrid Weapon Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26259" skill="Hybrid Weapon Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26259" skill="Hybrid Weapon Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26260" skill="Launcher Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26260" skill="Launcher Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26260" skill="Launcher Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26261" skill="Shield Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26261" skill="Shield Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26261" skill="Shield Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26257" skill="Projectile Weapon Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26257" skill="Projectile Weapon Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26257" skill="Projectile Weapon Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26256" skill="Electronic Superiority Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26256" skill="Electronic Superiority Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26256" skill="Electronic Superiority Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26258" skill="Energy Weapon Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26258" skill="Energy Weapon Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26258" skill="Energy Weapon Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="13278" skill="Archaeology" level="2" priority="3" type="Planned" />
+  <entry skillID="13278" skill="Archaeology" level="3" priority="3" type="Planned" />
+  <entry skillID="25811" skill="Astrometric Acquisition" level="2" priority="3" type="Planned" />
+  <entry skillID="25739" skill="Astrometric Rangefinding" level="2" priority="3" type="Planned" />
+  <entry skillID="21718" skill="Hacking" level="2" priority="3" type="Planned" />
+  <entry skillID="21718" skill="Hacking" level="3" priority="3" type="Planned" />
+  <entry skillID="3416" skill="Shield Operation" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="12365" skill="EM Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="12365" skill="EM Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="12367" skill="Explosive Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="12367" skill="Explosive Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="12366" skill="Kinetic Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="12366" skill="Kinetic Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="3422" skill="Shield Emission Systems" level="1" priority="3" type="Planned" />
+  <entry skillID="3422" skill="Shield Emission Systems" level="2" priority="3" type="Planned" />
+  <entry skillID="3422" skill="Shield Emission Systems" level="3" priority="3" type="Planned" />
+  <entry skillID="21059" skill="Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="21059" skill="Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="21059" skill="Shield Compensation" level="3" priority="3" type="Planned" />
+  <entry skillID="21059" skill="Shield Compensation" level="4" priority="3" type="Planned" />
+  <entry skillID="3419" skill="Shield Management" level="3" priority="3" type="Planned" />
+  <entry skillID="3419" skill="Shield Management" level="4" priority="3" type="Planned" />
+  <entry skillID="3425" skill="Shield Upgrades" level="3" priority="3" type="Planned" />
+  <entry skillID="3425" skill="Shield Upgrades" level="4" priority="3" type="Planned" />
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="3" type="Planned" />
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="3" type="Planned" />
+  <entry skillID="11566" skill="Thermal Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="11566" skill="Thermal Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="3355" skill="Social" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3355" skill="Social" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3355" skill="Social" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3359" skill="Connections" level="1" priority="3" type="Planned" />
+  <entry skillID="3359" skill="Connections" level="2" priority="3" type="Planned" />
+  <entry skillID="3361" skill="Criminal Connections" level="1" priority="3" type="Planned" />
+  <entry skillID="3361" skill="Criminal Connections" level="2" priority="3" type="Planned" />
+  <entry skillID="3357" skill="Diplomacy" level="1" priority="3" type="Planned" />
+  <entry skillID="3357" skill="Diplomacy" level="2" priority="3" type="Planned" />
+  <entry skillID="3357" skill="Diplomacy" level="3" priority="3" type="Planned" />
+  <entry skillID="3443" skill="Trade" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3894" skill="Distribution Connections" level="1" priority="3" type="Planned" />
+  <entry skillID="3894" skill="Distribution Connections" level="2" priority="3" type="Planned" />
+  <entry skillID="3893" skill="Mining Connections" level="1" priority="3" type="Planned" />
+  <entry skillID="3893" skill="Mining Connections" level="2" priority="3" type="Planned" />
+  <entry skillID="3356" skill="Negotiation" level="1" priority="3" type="Planned" />
+  <entry skillID="3356" skill="Negotiation" level="2" priority="3" type="Planned" />
+  <entry skillID="3895" skill="Security Connections" level="1" priority="3" type="Planned" />
+  <entry skillID="3895" skill="Security Connections" level="2" priority="3" type="Planned" />
+  <entry skillID="3331" skill="Amarr Frigate" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3331" skill="Amarr Frigate" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3331" skill="Amarr Frigate" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33091" skill="Amarr Destroyer" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="33091" skill="Amarr Destroyer" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="33091" skill="Amarr Destroyer" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3335" skill="Amarr Cruiser" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3335" skill="Amarr Cruiser" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3335" skill="Amarr Cruiser" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33095" skill="Amarr Battlecruiser" level="1" priority="3" type="Planned" />
+  <entry skillID="33095" skill="Amarr Battlecruiser" level="2" priority="3" type="Planned" />
+  <entry skillID="33095" skill="Amarr Battlecruiser" level="3" priority="3" type="Planned" />
+  <entry skillID="33095" skill="Amarr Battlecruiser" level="4" priority="3" type="Planned" />
+  <entry skillID="3327" skill="Spaceship Command" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3339" skill="Amarr Battleship" level="1" priority="3" type="Planned" />
+  <entry skillID="3339" skill="Amarr Battleship" level="2" priority="3" type="Planned" />
+  <entry skillID="3339" skill="Amarr Battleship" level="3" priority="3" type="Planned" />
+  <entry skillID="3339" skill="Amarr Battleship" level="4" priority="3" type="Planned" />
+  <entry skillID="3330" skill="Caldari Frigate" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3330" skill="Caldari Frigate" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3330" skill="Caldari Frigate" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33092" skill="Caldari Destroyer" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="33092" skill="Caldari Destroyer" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="33092" skill="Caldari Destroyer" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3334" skill="Caldari Cruiser" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3334" skill="Caldari Cruiser" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3334" skill="Caldari Cruiser" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33096" skill="Caldari Battlecruiser" level="1" priority="3" type="Planned" />
+  <entry skillID="33096" skill="Caldari Battlecruiser" level="2" priority="3" type="Planned" />
+  <entry skillID="33096" skill="Caldari Battlecruiser" level="3" priority="3" type="Planned" />
+  <entry skillID="33096" skill="Caldari Battlecruiser" level="4" priority="3" type="Planned" />
+  <entry skillID="3338" skill="Caldari Battleship" level="1" priority="3" type="Planned" />
+  <entry skillID="3338" skill="Caldari Battleship" level="2" priority="3" type="Planned" />
+  <entry skillID="3338" skill="Caldari Battleship" level="3" priority="3" type="Planned" />
+  <entry skillID="3338" skill="Caldari Battleship" level="4" priority="3" type="Planned" />
+  <entry skillID="3329" skill="Minmatar Frigate" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3329" skill="Minmatar Frigate" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3329" skill="Minmatar Frigate" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33094" skill="Minmatar Destroyer" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="33094" skill="Minmatar Destroyer" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="33094" skill="Minmatar Destroyer" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3333" skill="Minmatar Cruiser" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3333" skill="Minmatar Cruiser" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3333" skill="Minmatar Cruiser" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33098" skill="Minmatar Battlecruiser" level="1" priority="3" type="Planned" />
+  <entry skillID="33098" skill="Minmatar Battlecruiser" level="2" priority="3" type="Planned" />
+  <entry skillID="33098" skill="Minmatar Battlecruiser" level="3" priority="3" type="Planned" />
+  <entry skillID="33098" skill="Minmatar Battlecruiser" level="4" priority="3" type="Planned" />
+  <entry skillID="3337" skill="Minmatar Battleship" level="1" priority="3" type="Planned" />
+  <entry skillID="3337" skill="Minmatar Battleship" level="2" priority="3" type="Planned" />
+  <entry skillID="3337" skill="Minmatar Battleship" level="3" priority="3" type="Planned" />
+  <entry skillID="3337" skill="Minmatar Battleship" level="4" priority="3" type="Planned" />
+  <entry skillID="33093" skill="Gallente Destroyer" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="33093" skill="Gallente Destroyer" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="33093" skill="Gallente Destroyer" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3332" skill="Gallente Cruiser" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3332" skill="Gallente Cruiser" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3332" skill="Gallente Cruiser" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33097" skill="Gallente Battlecruiser" level="1" priority="3" type="Planned" />
+  <entry skillID="33097" skill="Gallente Battlecruiser" level="2" priority="3" type="Planned" />
+  <entry skillID="33097" skill="Gallente Battlecruiser" level="3" priority="3" type="Planned" />
+  <entry skillID="33097" skill="Gallente Battlecruiser" level="4" priority="3" type="Planned" />
+  <entry skillID="3336" skill="Gallente Battleship" level="1" priority="3" type="Planned" />
+  <entry skillID="3336" skill="Gallente Battleship" level="2" priority="3" type="Planned" />
+  <entry skillID="3336" skill="Gallente Battleship" level="3" priority="3" type="Planned" />
+  <entry skillID="3336" skill="Gallente Battleship" level="4" priority="3" type="Planned" />
+  <entry skillID="3335" skill="Amarr Cruiser" level="4" priority="3" type="Planned" />
+  <entry skillID="33091" skill="Amarr Destroyer" level="4" priority="3" type="Planned" />
+  <entry skillID="3331" skill="Amarr Frigate" level="4" priority="3" type="Planned" />
+  <entry skillID="3343" skill="Amarr Industrial" level="1" priority="3" type="Planned" />
+  <entry skillID="32918" skill="Mining Frigate" level="2" priority="3" type="Planned" />
+  <entry skillID="32918" skill="Mining Frigate" level="3" priority="3" type="Planned" />
+  <entry skillID="32918" skill="Mining Frigate" level="4" priority="3" type="Planned" />
+  <entry skillID="3334" skill="Caldari Cruiser" level="4" priority="3" type="Planned" />
+  <entry skillID="33092" skill="Caldari Destroyer" level="4" priority="3" type="Planned" />
+  <entry skillID="3330" skill="Caldari Frigate" level="4" priority="3" type="Planned" />
+  <entry skillID="3342" skill="Caldari Industrial" level="1" priority="3" type="Planned" />
+  <entry skillID="3332" skill="Gallente Cruiser" level="4" priority="3" type="Planned" />
+  <entry skillID="33093" skill="Gallente Destroyer" level="4" priority="3" type="Planned" />
+  <entry skillID="3328" skill="Gallente Frigate" level="4" priority="3" type="Planned" />
+  <entry skillID="3333" skill="Minmatar Cruiser" level="4" priority="3" type="Planned" />
+  <entry skillID="33094" skill="Minmatar Destroyer" level="4" priority="3" type="Planned" />
+  <entry skillID="3329" skill="Minmatar Frigate" level="4" priority="3" type="Planned" />
+  <entry skillID="3341" skill="Minmatar Industrial" level="1" priority="3" type="Planned" />
+  <entry skillID="3341" skill="Minmatar Industrial" level="2" priority="3" type="Planned" />
+  <entry skillID="3341" skill="Minmatar Industrial" level="3" priority="3" type="Planned" />
+  <entry skillID="3341" skill="Minmatar Industrial" level="4" priority="3" type="Planned" />
+  <entry skillID="11584" skill="Anchoring" level="1" priority="3" type="Planned" />
+  <entry skillID="3428" skill="Long Range Targeting" level="2" priority="3" type="Planned" />
+  <entry skillID="3428" skill="Long Range Targeting" level="3" priority="3" type="Planned" />
+  <entry skillID="3431" skill="Signature Analysis" level="2" priority="3" type="Planned" />
+  <entry skillID="3431" skill="Signature Analysis" level="3" priority="3" type="Planned" />
+  <entry skillID="3429" skill="Target Management" level="3" priority="3" type="Planned" />
+  <entry skillID="3429" skill="Target Management" level="4" priority="3" type="Planned" />
+  <entry skillID="3446" skill="Broker Relations" level="1" priority="3" type="Planned" />
+  <entry skillID="3446" skill="Broker Relations" level="2" priority="3" type="Planned" />
+  <entry skillID="16598" skill="Marketing" level="1" priority="3" type="Planned" />
+  <entry skillID="16598" skill="Marketing" level="2" priority="3" type="Planned" />
+</plan>
