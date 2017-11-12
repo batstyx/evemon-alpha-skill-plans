@@ -1,173 +1,173 @@
-"Skill Name","Skill Level","Skill Group","Skill Rank","Skill Points","TypeID"
-"Armor Layering","1","Armor","3","750","33078"
-"EM Armor Compensation","2","Armor","2","2828","22806"
-"Explosive Armor Compensation","2","Armor","2","2828","22807"
-"Hull Upgrades","5","Armor","2","512000","3394"
-"Kinetic Armor Compensation","2","Armor","2","2828","22808"
-"Mechanics","5","Armor","1","256000","3392"
-"Remote Armor Repair Systems","3","Armor","2","16000","16069"
-"Remote Hull Repair Systems","2","Armor","2","2828","27902"
-"Repair Systems","5","Armor","1","256000","3393"
-"Thermal Armor Compensation","2","Armor","2","2828","22809"
-"Corporation Management","1","Corporation Management","1","250","3363"
-"Drone Avionics","4","Drones","1","45255","3437"
-"Drone Durability","4","Drones","5","226274","23618"
-"Drone Interfacing","4","Drones","5","226274","3442"
-"Drone Navigation","4","Drones","1","45255","12305"
-"Drone Sharpshooting","4","Drones","1","45255","23606"
-"Drones","5","Drones","1","256000","3436"
-"Light Drone Operation","5","Drones","1","256000","24241"
-"Medium Drone Operation","5","Drones","2","512000","33699"
-"Repair Drone Operation","2","Drones","3","4243","3439"
-"Heavy Drone Operation","4","Drones","5","226274","3441"
-"Amarr Drone Specialization","2","Drones","5","7071","12484"
-"Caldari Drone Specialization","2","Drones","5","7071","12487"
-"Gallente Drone Specialization","2","Drones","5","7071","12486"
-"Minmatar Drone Specialization","2","Drones","5","7071","12485"
-"Electronic Warfare","4","Electronic Systems","2","90510","3427"
-"Propulsion Jamming","4","Electronic Systems","3","135765","3435"
-"Weapon Disruption","4","Electronic Systems","3","135765","3434"
-"Sensor Linking","3","Electronic Systems","3","24000","3433"
-"Target Painting","3","Electronic Systems","3","24000","19921"
-"Advanced Weapon Upgrades","3","Engineering","6","48000","11207"
-"CPU Management","5","Engineering","1","256000","3426"
-"Capacitor Emission Systems","4","Engineering","2","90510","3423"
-"Capacitor Management","4","Engineering","3","135765","3418"
-"Capacitor Systems Operation","3","Engineering","1","8000","3417"
-"Electronics Upgrades","5","Engineering","2","512000","3432"
-"Energy Grid Upgrades","5","Engineering","2","512000","3424"
-"Energy Pulse Weapons","2","Engineering","2","2828","3421"
-"Power Grid Management","5","Engineering","1","256000","3413"
-"Thermodynamics","4","Engineering","3","135765","28164"
-"Weapon Upgrades","5","Engineering","2","512000","3318"
-"Controlled Bursts","4","Gunnery","2","90510","3316"
-"Gunnery","5","Gunnery","1","256000","3300"
-"Medium Energy Turret","5","Gunnery","3","768000","3306"
-"Motion Prediction","4","Gunnery","2","90510","3312"
-"Rapid Firing","4","Gunnery","2","90510","3310"
-"Sharpshooter","4","Gunnery","2","90510","3311"
-"Small Energy Turret","5","Gunnery","1","256000","3303"
-"Surgical Strike","4","Gunnery","4","181019","3315"
-"Trajectory Analysis","4","Gunnery","5","226274","3317"
-"Small Pulse Laser Specialization","3","Gunnery","3","24000","12213"
-"Medium Pulse Laser Specialization","3","Gunnery","5","40000","12214"
-"Small Beam Laser Specialization","3","Gunnery","3","24000","11083"
-"Medium Beam Laser Specialization","3","Gunnery","5","40000","12204"
-"Large Energy Turret","4","Gunnery","5","226274","3309"
-"Small Blaster Specialization","3","Gunnery","3","24000","12210"
-"Medium Blaster Specialization","3","Gunnery","5","40000","12211"
-"Small Rail Specialization","3","Gunnery","3","24000","#N/A"
-"Medium Rail Specializatoin","3","Gunnery","5","40000","#N/A"
-"Large Hybrid Turret","4","Gunnery","5","226274","3307"
-"Small Autocannon Specialization","3","Gunnery","3","24000","11084"
-"Medium Autocannon Specialization","3","Gunnery","5","40000","12208"
-"Small Artillery Specialization","3","Gunnery","3","24000","12201"
-"Medium Artillery Specialization","3","Gunnery","5","40000","12202"
-"Large Projectile Turret","4","Gunnery","5","226274","3308"
-"Rocket Specialization","3","Missiles","3","24000","20209"
-"Heavy Missile Specialization","3","Missiles","5","40000","20211"
-"Light Missile Specialization","3","Missiles","3","24000","20210"
-"Heavy Assault Missile Specialization","3","Missiles","5","40000","25718"
-"Medium Hybrid Turret","5","Gunnery","3","768000","3304"
-"Small Hybrid Turret","5","Gunnery","1","256000","3301"
-"Medium Projectile Turret","5","Gunnery","3","768000","3305"
-"Small Projectile Turret","5","Gunnery","1","256000","3302"
-"Leadership","3","Fleet Support","1","8000","3348"
-"Torpedoes","4","Missiles","5","226274","3325"
-"Cruise Missiles","4","Missiles","5","226274","3326"
-"Guided Missile Precision","3","Missiles","5","40000","20312"
-"Missile Launcher Operation","5","Missiles","1","256000","3319"
-"Light Missiles","5","Missiles","2","512000","3321"
-"Heavy Assault Missiles","5","Missiles","3","768000","25719"
-"Heavy Missiles","5","Missiles","3","768000","3324"
-"Missile Bombardment","4","Missiles","2","90510","12441"
-"Missile Projection","2","Missiles","4","5657","12442"
-"Rapid Launch","4","Missiles","2","90510","21071"
-"Rockets","5","Missiles","1","256000","3320"
-"Target Navigation Prediction","3","Missiles","2","16000","20314"
-"Warhead Upgrades","3","Missiles","5","40000","20315"
-"Acceleration Control","3","Navigation","4","32000","3452"
-"Afterburner","3","Navigation","1","8000","3450"
-"Evasive Maneuvering","3","Navigation","2","16000","3453"
-"High Speed Maneuvering","3","Navigation","5","40000","3454"
-"Navigation","4","Navigation","1","45255","3449"
-"Warp Drive Operation","3","Navigation","1","8000","3455"
-"Biology","3","Neural Enhancement","1","8000","3405"
-"Cybernetics","3","Neural Enhancement","3","24000","3411"
-"Infomorph Psychology","1","Neural Enhancement","1","250","24242"
-"Industry","5","Production","1","256000","3380"
-"Mass Production","3","Production","2","16000","3387"
-"Mining","4","Resource Processing","1","45255","3386"
-"Ice Harvesting","2","Resource Processing","1","1414","16281"
-"Mining Upgrades","4","Resource Processing","4","181019","22578"
-"Reprocessing","3","Resource Processing","1","8000","3385"
-"Gas Cloud Harvesting","2","Resource Processing","1","1414","25544"
-"Salvaging","3","Resource Processing","3","24000","25863"
-"Armor Rigging","3","Rigging","3","24000","26253"
-"Astronautics Rigging","3","Rigging","3","24000","26254"
-"Hybrid Weapon Rigging","3","Rigging","3","24000","26259"
-"Launcher Rigging","3","Rigging","3","24000","26260"
-"Shield Rigging","3","Rigging","3","24000","26261"
-"Projectile Weapon Rigging","3","Rigging","3","24000","26257"
-"Drones Rigging","3","Rigging","3","24000","26255"
-"Electronic Superiority Rigging","3","Rigging","3","24000","26256"
-"Energy Weapon Rigging","3","Rigging","3","24000","26258"
-"Jury Rigging","3","Rigging","2","16000","26252"
-"Archaeology","3","Scanning","3","24000","13278"
-"Astrometric Acquisition","2","Scanning","5","7071","25811"
-"Astrometric Rangefinding","2","Scanning","8","11314","25739"
-"Astrometrics","3","Scanning","3","24000","3412"
-"Hacking","3","Scanning","3","24000","21718"
-"Survey","3","Scanning","1","8000","3551"
-"Science","4","Science","1","45255","3402"
-"EM Shield Compensation","2","Shields","2","2828","12365"
-"Explosive Shield Compensation","2","Shields","2","2828","12367"
-"Kinetic Shield Compensation","2","Shields","2","2828","12366"
-"Shield Emission Systems","3","Shields","2","16000","3422"
-"Shield Compensation","4","Shields","2","90510","21059"
-"Shield Management","4","Shields","3","135765","3419"
-"Shield Operation","4","Shields","1","45255","3416"
-"Shield Upgrades","4","Shields","2","90510","3425"
-"Tactical Shield Manipulation","4","Shields","4","181019","3420"
-"Thermal Shield Compensation","2","Shields","2","2828","11566"
-"Connections","2","Social","3","4243","3359"
-"Criminal Connections","2","Social","3","4243","3361"
-"Diplomacy","3","Social","1","8000","3357"
-"Distribution Connections","2","Social","2","2828","3894"
-"Mining Connections","2","Social","2","2828","3893"
-"Negotiation","2","Social","2","2828","3356"
-"Security Connections","2","Social","2","2828","3895"
-"Social","3","Social","1","8000","3355"
-"Amarr Battlecruiser","4","Spaceship Command","6","271529","33095"
-"Amarr Battleship","4","Spaceship Command","8","362039","3339"
-"Caldari Battlecruiser","4","Spaceship Command","6","271529","33096"
-"Caldari Battleship","4","Spaceship Command","8","362039","3338"
-"Minmatar Battlecruiser","4","Spaceship Command","6","271529","33098"
-"Minmatar Battleship","4","Spaceship Command","8","362039","3337"
-"Gallente Battlecruiser","4","Spaceship Command","6","271529","33097"
-"Gallente Battleship","4","Spaceship Command","8","362039","3336"
-"Amarr Cruiser","4","Spaceship Command","5","226274","3335"
-"Amarr Destroyer","4","Spaceship Command","2","90510","33091"
-"Amarr Frigate","4","Spaceship Command","2","90510","3331"
-"Amarr Industrial","1","Spaceship Command","4","1000","3343"
-"Mining Frigate","4","Spaceship Command","2","90510","32918"
-"Spaceship Command","3","Spaceship Command","1","8000","3327"
-"Caldari Cruiser","4","Spaceship Command","5","226274","3334"
-"Caldari Destroyer","4","Spaceship Command","2","90510","33092"
-"Caldari Frigate","4","Spaceship Command","2","90510","3330"
-"Caldari Industrial","1","Spaceship Command","4","1000","3342"
-"Gallente Cruiser","4","Spaceship Command","5","226274","3332"
-"Gallente Destroyer","4","Spaceship Command","2","90510","33093"
-"Gallente Frigate","4","Spaceship Command","2","90510","3328"
-"Gallente Industrial","1","Spaceship Command","4","1000","3340"
-"Minmatar Cruiser","4","Spaceship Command","5","226274","3333"
-"Minmatar Destroyer","4","Spaceship Command","2","90510","33094"
-"Minmatar Frigate","4","Spaceship Command","2","90510","3329"
-"Minmatar Industrial","1","Spaceship Command","4","1000","3341"
-"Anchoring","1","Structure Management","3","750","11584"
-"Long Range Targeting","3","Targeting","2","16000","3428"
-"Signature Analysis","3","Targeting","1","8000","3431"
-"Target Management","4","Targeting","1","45255","3429"
-"Broker Relations","2","Trade","2","2828","3446"
-"Marketing","2","Trade","3","4243","16598"
-"Trade","3","Trade","1","8000","3443"
+Skill Name,Skill Level,Skill Group,Skill Rank,Skill Points,TypeID
+Armor Layering,1,Armor,3,750,33078
+EM Armor Compensation,2,Armor,2,2828,22806
+Explosive Armor Compensation,2,Armor,2,2828,22807
+Hull Upgrades,5,Armor,2,512000,3394
+Kinetic Armor Compensation,2,Armor,2,2828,22808
+Mechanics,5,Armor,1,256000,3392
+Remote Armor Repair Systems,3,Armor,2,16000,16069
+Remote Hull Repair Systems,2,Armor,2,2828,27902
+Repair Systems,5,Armor,1,256000,3393
+Thermal Armor Compensation,2,Armor,2,2828,22809
+Corporation Management,1,Corporation Management,1,250,3363
+Amarr Drone Specialization,2,Drones,5,7071,12484
+Caldari Drone Specialization,2,Drones,5,7071,12487
+Drone Avionics,4,Drones,1,45255,3437
+Drone Durability,4,Drones,5,226274,23618
+Drone Interfacing,4,Drones,5,226274,3442
+Drone Navigation,4,Drones,1,45255,12305
+Drone Sharpshooting,4,Drones,1,45255,23606
+Drones,5,Drones,1,256000,3436
+Gallente Drone Specialization,2,Drones,5,7071,12486
+Heavy Drone Operation,4,Drones,5,226274,3441
+Light Drone Operation,5,Drones,1,256000,24241
+Medium Drone Operation,5,Drones,2,512000,33699
+Minmatar Drone Specialization,2,Drones,5,7071,12485
+Repair Drone Operation,2,Drones,3,4243,3439
+Electronic Warfare,4,Electronic Systems,2,90510,3427
+Propulsion Jamming,4,Electronic Systems,3,135765,3435
+Sensor Linking,3,Electronic Systems,3,24000,3433
+Target Painting,3,Electronic Systems,3,24000,19921
+Weapon Disruption,4,Electronic Systems,3,135765,3434
+Advanced Weapon Upgrades,3,Engineering,6,48000,11207
+Capacitor Emission Systems,4,Engineering,2,90510,3423
+Capacitor Management,4,Engineering,3,135765,3418
+Capacitor Systems Operation,3,Engineering,1,8000,3417
+CPU Management,5,Engineering,1,256000,3426
+Electronics Upgrades,5,Engineering,2,512000,3432
+Energy Grid Upgrades,5,Engineering,2,512000,3424
+Energy Pulse Weapons,2,Engineering,2,2828,3421
+Power Grid Management,5,Engineering,1,256000,3413
+Thermodynamics,4,Engineering,3,135765,28164
+Weapon Upgrades,5,Engineering,2,512000,3318
+Leadership,3,Fleet Support,1,8000,3348
+Controlled Bursts,4,Gunnery,2,90510,3316
+Gunnery,5,Gunnery,1,256000,3300
+Large Energy Turret,4,Gunnery,5,226274,3309
+Large Hybrid Turret,4,Gunnery,5,226274,3307
+Large Projectile Turret,4,Gunnery,5,226274,3308
+Medium Artillery Specialization,3,Gunnery,5,40000,12202
+Medium Autocannon Specialization,3,Gunnery,5,40000,12208
+Medium Beam Laser Specialization,3,Gunnery,5,40000,12204
+Medium Blaster Specialization,3,Gunnery,5,40000,12211
+Medium Energy Turret,5,Gunnery,3,768000,3306
+Medium Hybrid Turret,5,Gunnery,3,768000,3304
+Medium Projectile Turret,5,Gunnery,3,768000,3305
+Medium Pulse Laser Specialization,3,Gunnery,5,40000,12214
+Medium Rail Specializatoin,3,Gunnery,5,40000,#N/A
+Motion Prediction,4,Gunnery,2,90510,3312
+Rapid Firing,4,Gunnery,2,90510,3310
+Sharpshooter,4,Gunnery,2,90510,3311
+Small Artillery Specialization,3,Gunnery,3,24000,12201
+Small Autocannon Specialization,3,Gunnery,3,24000,11084
+Small Beam Laser Specialization,3,Gunnery,3,24000,11083
+Small Blaster Specialization,3,Gunnery,3,24000,12210
+Small Energy Turret,5,Gunnery,1,256000,3303
+Small Hybrid Turret,5,Gunnery,1,256000,3301
+Small Projectile Turret,5,Gunnery,1,256000,3302
+Small Pulse Laser Specialization,3,Gunnery,3,24000,12213
+Small Rail Specialization,3,Gunnery,3,24000,#N/A
+Surgical Strike,4,Gunnery,4,181019,3315
+Trajectory Analysis,4,Gunnery,5,226274,3317
+Cruise Missiles,4,Missiles,5,226274,3326
+Guided Missile Precision,3,Missiles,5,40000,20312
+Heavy Assault Missile Specialization,3,Missiles,5,40000,25718
+Heavy Assault Missiles,5,Missiles,3,768000,25719
+Heavy Missile Specialization,3,Missiles,5,40000,20211
+Heavy Missiles,5,Missiles,3,768000,3324
+Light Missile Specialization,3,Missiles,3,24000,20210
+Light Missiles,5,Missiles,2,512000,3321
+Missile Bombardment,4,Missiles,2,90510,12441
+Missile Launcher Operation,5,Missiles,1,256000,3319
+Missile Projection,2,Missiles,4,5657,12442
+Rapid Launch,4,Missiles,2,90510,21071
+Rocket Specialization,3,Missiles,3,24000,20209
+Rockets,5,Missiles,1,256000,3320
+Target Navigation Prediction,3,Missiles,2,16000,20314
+Torpedoes,4,Missiles,5,226274,3325
+Warhead Upgrades,3,Missiles,5,40000,20315
+Acceleration Control,3,Navigation,4,32000,3452
+Afterburner,3,Navigation,1,8000,3450
+Evasive Maneuvering,3,Navigation,2,16000,3453
+High Speed Maneuvering,3,Navigation,5,40000,3454
+Navigation,4,Navigation,1,45255,3449
+Warp Drive Operation,3,Navigation,1,8000,3455
+Biology,3,Neural Enhancement,1,8000,3405
+Cybernetics,3,Neural Enhancement,3,24000,3411
+Infomorph Psychology,1,Neural Enhancement,1,250,24242
+Industry,5,Production,1,256000,3380
+Mass Production,3,Production,2,16000,3387
+Gas Cloud Harvesting,2,Resource Processing,1,1414,25544
+Ice Harvesting,2,Resource Processing,1,1414,16281
+Mining,4,Resource Processing,1,45255,3386
+Mining Upgrades,4,Resource Processing,4,181019,22578
+Reprocessing,3,Resource Processing,1,8000,3385
+Salvaging,3,Resource Processing,3,24000,25863
+Armor Rigging,3,Rigging,3,24000,26253
+Astronautics Rigging,3,Rigging,3,24000,26254
+Drones Rigging,3,Rigging,3,24000,26255
+Electronic Superiority Rigging,3,Rigging,3,24000,26256
+Energy Weapon Rigging,3,Rigging,3,24000,26258
+Hybrid Weapon Rigging,3,Rigging,3,24000,26259
+Jury Rigging,3,Rigging,2,16000,26252
+Launcher Rigging,3,Rigging,3,24000,26260
+Projectile Weapon Rigging,3,Rigging,3,24000,26257
+Shield Rigging,3,Rigging,3,24000,26261
+Archaeology,3,Scanning,3,24000,13278
+Astrometric Acquisition,2,Scanning,5,7071,25811
+Astrometric Rangefinding,2,Scanning,8,11314,25739
+Astrometrics,3,Scanning,3,24000,3412
+Hacking,3,Scanning,3,24000,21718
+Survey,3,Scanning,1,8000,3551
+Science,4,Science,1,45255,3402
+EM Shield Compensation,2,Shields,2,2828,12365
+Explosive Shield Compensation,2,Shields,2,2828,12367
+Kinetic Shield Compensation,2,Shields,2,2828,12366
+Shield Compensation,4,Shields,2,90510,21059
+Shield Emission Systems,3,Shields,2,16000,3422
+Shield Management,4,Shields,3,135765,3419
+Shield Operation,4,Shields,1,45255,3416
+Shield Upgrades,4,Shields,2,90510,3425
+Tactical Shield Manipulation,4,Shields,4,181019,3420
+Thermal Shield Compensation,2,Shields,2,2828,11566
+Connections,2,Social,3,4243,3359
+Criminal Connections,2,Social,3,4243,3361
+Diplomacy,3,Social,1,8000,3357
+Distribution Connections,2,Social,2,2828,3894
+Mining Connections,2,Social,2,2828,3893
+Negotiation,2,Social,2,2828,3356
+Security Connections,2,Social,2,2828,3895
+Social,3,Social,1,8000,3355
+Amarr Battlecruiser,4,Spaceship Command,6,271529,33095
+Amarr Battleship,4,Spaceship Command,8,362039,3339
+Amarr Cruiser,4,Spaceship Command,5,226274,3335
+Amarr Destroyer,4,Spaceship Command,2,90510,33091
+Amarr Frigate,4,Spaceship Command,2,90510,3331
+Amarr Industrial,1,Spaceship Command,4,1000,3343
+Caldari Battlecruiser,4,Spaceship Command,6,271529,33096
+Caldari Battleship,4,Spaceship Command,8,362039,3338
+Caldari Cruiser,4,Spaceship Command,5,226274,3334
+Caldari Destroyer,4,Spaceship Command,2,90510,33092
+Caldari Frigate,4,Spaceship Command,2,90510,3330
+Caldari Industrial,1,Spaceship Command,4,1000,3342
+Gallente Battlecruiser,4,Spaceship Command,6,271529,33097
+Gallente Battleship,4,Spaceship Command,8,362039,3336
+Gallente Cruiser,4,Spaceship Command,5,226274,3332
+Gallente Destroyer,4,Spaceship Command,2,90510,33093
+Gallente Frigate,4,Spaceship Command,2,90510,3328
+Gallente Industrial,1,Spaceship Command,4,1000,3340
+Mining Frigate,4,Spaceship Command,2,90510,32918
+Minmatar Battlecruiser,4,Spaceship Command,6,271529,33098
+Minmatar Battleship,4,Spaceship Command,8,362039,3337
+Minmatar Cruiser,4,Spaceship Command,5,226274,3333
+Minmatar Destroyer,4,Spaceship Command,2,90510,33094
+Minmatar Frigate,4,Spaceship Command,2,90510,3329
+Minmatar Industrial,1,Spaceship Command,4,1000,3341
+Spaceship Command,3,Spaceship Command,1,8000,3327
+Anchoring,1,Structure Management,3,750,11584
+Long Range Targeting,3,Targeting,2,16000,3428
+Signature Analysis,3,Targeting,1,8000,3431
+Target Management,4,Targeting,1,45255,3429
+Broker Relations,2,Trade,2,2828,3446
+Marketing,2,Trade,3,4243,16598
+Trade,3,Trade,1,8000,3443
