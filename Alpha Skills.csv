@@ -54,7 +54,7 @@ Medium Energy Turret,5,Gunnery,3,768000,3306
 Medium Hybrid Turret,5,Gunnery,3,768000,3304
 Medium Projectile Turret,5,Gunnery,3,768000,3305
 Medium Pulse Laser Specialization,3,Gunnery,5,40000,12214
-Medium Rail Specializatoin,3,Gunnery,5,40000,#N/A
+Medium Railgun Specialization,3,Gunnery,5,40000,12206
 Motion Prediction,4,Gunnery,2,90510,3312
 Rapid Firing,4,Gunnery,2,90510,3310
 Sharpshooter,4,Gunnery,2,90510,3311
@@ -66,7 +66,7 @@ Small Energy Turret,5,Gunnery,1,256000,3303
 Small Hybrid Turret,5,Gunnery,1,256000,3301
 Small Projectile Turret,5,Gunnery,1,256000,3302
 Small Pulse Laser Specialization,3,Gunnery,3,24000,12213
-Small Rail Specialization,3,Gunnery,3,24000,#N/A
+Small Railgun Specialization,3,Gunnery,3,24000,11082
 Surgical Strike,4,Gunnery,4,181019,3315
 Trajectory Analysis,4,Gunnery,5,226274,3317
 Cruise Missiles,4,Missiles,5,226274,3326
