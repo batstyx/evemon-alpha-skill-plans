@@ -113,6 +113,9 @@
   <entry skillID="28164" skill="Thermodynamics" level="3" priority="3" type="Planned" />
   <entry skillID="28164" skill="Thermodynamics" level="4" priority="3" type="Planned" />
   <entry skillID="3318" skill="Weapon Upgrades" level="5" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="1" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="2" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="3" priority="3" type="Planned" /> 
   <entry skillID="3316" skill="Controlled Bursts" level="3" priority="3" type="Planned" />
   <entry skillID="3316" skill="Controlled Bursts" level="4" priority="3" type="Planned" />
   <entry skillID="3300" skill="Gunnery" level="5" priority="3" type="Planned" />
@@ -235,9 +238,6 @@
   <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="1" priority="3" type="Planned" />
   <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="2" priority="3" type="Planned" />
   <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="3" priority="3" type="Planned" />
-  <entry skillID="3348" skill="Leadership" level="1" priority="3" type="Planned" />
-  <entry skillID="3348" skill="Leadership" level="2" priority="3" type="Planned" />
-  <entry skillID="3348" skill="Leadership" level="3" priority="3" type="Planned" />
   <entry skillID="3319" skill="Missile Launcher Operation" level="4" priority="3" type="Prerequisite" />
   <entry skillID="3325" skill="Torpedoes" level="1" priority="3" type="Planned" />
   <entry skillID="3325" skill="Torpedoes" level="2" priority="3" type="Planned" />
