@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3320" skill="Rockets" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3320" skill="Rockets" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3320" skill="Rockets" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3320" skill="Rockets" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3320" skill="Rockets" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="20209" skill="Rocket Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="20209" skill="Rocket Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="20209" skill="Rocket Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3319" skill="Missile Launcher Operation" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3319" skill="Missile Launcher Operation" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3321" skill="Light Missiles" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3321" skill="Light Missiles" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3321" skill="Light Missiles" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3324" skill="Heavy Missiles" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="20211" skill="Heavy Missile Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="20211" skill="Heavy Missile Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="20211" skill="Heavy Missile Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3321" skill="Light Missiles" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3321" skill="Light Missiles" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="20210" skill="Light Missile Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="20210" skill="Light Missile Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="20210" skill="Light Missile Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="25718" skill="Heavy Assault Missile Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3319" skill="Missile Launcher Operation" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3325" skill="Torpedoes" level="1" priority="3" type="Planned" />
+  <entry skillID="3325" skill="Torpedoes" level="2" priority="3" type="Planned" />
+  <entry skillID="3325" skill="Torpedoes" level="3" priority="3" type="Planned" />
+  <entry skillID="3325" skill="Torpedoes" level="4" priority="3" type="Planned" />
+  <entry skillID="3319" skill="Missile Launcher Operation" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="3326" skill="Cruise Missiles" level="1" priority="3" type="Planned" />
+  <entry skillID="3326" skill="Cruise Missiles" level="2" priority="3" type="Planned" />
+  <entry skillID="3326" skill="Cruise Missiles" level="3" priority="3" type="Planned" />
+  <entry skillID="3326" skill="Cruise Missiles" level="4" priority="3" type="Planned" />
+  <entry skillID="20312" skill="Guided Missile Precision" level="1" priority="3" type="Planned" />
+  <entry skillID="20312" skill="Guided Missile Precision" level="2" priority="3" type="Planned" />
+  <entry skillID="20312" skill="Guided Missile Precision" level="3" priority="3" type="Planned" />
+  <entry skillID="12441" skill="Missile Bombardment" level="1" priority="3" type="Planned" />
+  <entry skillID="12441" skill="Missile Bombardment" level="2" priority="3" type="Planned" />
+  <entry skillID="12441" skill="Missile Bombardment" level="3" priority="3" type="Planned" />
+  <entry skillID="12441" skill="Missile Bombardment" level="4" priority="3" type="Planned" />
+  <entry skillID="12442" skill="Missile Projection" level="1" priority="3" type="Planned" />
+  <entry skillID="12442" skill="Missile Projection" level="2" priority="3" type="Planned" />
+  <entry skillID="21071" skill="Rapid Launch" level="1" priority="3" type="Planned" />
+  <entry skillID="21071" skill="Rapid Launch" level="2" priority="3" type="Planned" />
+  <entry skillID="21071" skill="Rapid Launch" level="3" priority="3" type="Planned" />
+  <entry skillID="21071" skill="Rapid Launch" level="4" priority="3" type="Planned" />
+  <entry skillID="20314" skill="Target Navigation Prediction" level="1" priority="3" type="Planned" />
+  <entry skillID="20314" skill="Target Navigation Prediction" level="2" priority="3" type="Planned" />
+  <entry skillID="20314" skill="Target Navigation Prediction" level="3" priority="3" type="Planned" />
+  <entry skillID="20315" skill="Warhead Upgrades" level="1" priority="3" type="Planned" />
+  <entry skillID="20315" skill="Warhead Upgrades" level="2" priority="3" type="Planned" />
+  <entry skillID="20315" skill="Warhead Upgrades" level="3" priority="3" type="Planned" />
+</plan>

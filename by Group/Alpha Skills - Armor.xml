@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3392" skill="Mechanics" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="33078" skill="Armor Layering" level="1" priority="3" type="Planned" />
+  <entry skillID="3394" skill="Hull Upgrades" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3394" skill="Hull Upgrades" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="22806" skill="EM Armor Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="22806" skill="EM Armor Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="22807" skill="Explosive Armor Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="22807" skill="Explosive Armor Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="3394" skill="Hull Upgrades" level="5" priority="3" type="Planned" />
+  <entry skillID="22808" skill="Kinetic Armor Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="22808" skill="Kinetic Armor Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="3392" skill="Mechanics" level="4" priority="3" type="Planned" />
+  <entry skillID="3392" skill="Mechanics" level="5" priority="3" type="Planned" />
+  <entry skillID="3393" skill="Repair Systems" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="1" priority="3" type="Planned" />
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="2" priority="3" type="Planned" />
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="3" priority="3" type="Planned" />
+  <entry skillID="27902" skill="Remote Hull Repair Systems" level="1" priority="3" type="Planned" />
+  <entry skillID="27902" skill="Remote Hull Repair Systems" level="2" priority="3" type="Planned" />
+  <entry skillID="3393" skill="Repair Systems" level="3" priority="3" type="Planned" />
+  <entry skillID="3393" skill="Repair Systems" level="4" priority="3" type="Planned" />
+  <entry skillID="3393" skill="Repair Systems" level="5" priority="3" type="Planned" />
+  <entry skillID="22809" skill="Thermal Armor Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="22809" skill="Thermal Armor Compensation" level="2" priority="3" type="Planned" />
+</plan>

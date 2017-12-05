@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3363" skill="Corporation Management" level="1" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="1" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="2" priority="3" type="Planned" />
+  <entry skillID="3348" skill="Leadership" level="3" priority="3" type="Planned" /> 
+  <entry skillID="11584" skill="Anchoring" level="1" priority="3" type="Planned" />
+</plan>

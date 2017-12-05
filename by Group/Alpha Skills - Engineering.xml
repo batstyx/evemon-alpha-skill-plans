@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3318" skill="Weapon Upgrades" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3318" skill="Weapon Upgrades" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="1" priority="3" type="Planned" />
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="2" priority="3" type="Planned" />
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="3" priority="3" type="Planned" />
+  <entry skillID="3426" skill="CPU Management" level="5" priority="3" type="Planned" />
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="1" priority="3" type="Planned" />
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="2" priority="3" type="Planned" />
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="3" priority="3" type="Planned" />
+  <entry skillID="3423" skill="Capacitor Emission Systems" level="4" priority="3" type="Planned" />
+  <entry skillID="3418" skill="Capacitor Management" level="4" priority="3" type="Planned" />
+  <entry skillID="3432" skill="Electronics Upgrades" level="4" priority="3" type="Planned" />
+  <entry skillID="3432" skill="Electronics Upgrades" level="5" priority="3" type="Planned" />
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="2" priority="3" type="Planned" />
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="3" priority="3" type="Planned" />
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="4" priority="3" type="Planned" />
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="5" priority="3" type="Planned" />
+  <entry skillID="3421" skill="Energy Pulse Weapons" level="1" priority="3" type="Planned" />
+  <entry skillID="3421" skill="Energy Pulse Weapons" level="2" priority="3" type="Planned" />
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="3" type="Planned" />
+  <entry skillID="28164" skill="Thermodynamics" level="2" priority="3" type="Planned" />
+  <entry skillID="28164" skill="Thermodynamics" level="3" priority="3" type="Planned" />
+  <entry skillID="28164" skill="Thermodynamics" level="4" priority="3" type="Planned" />
+  <entry skillID="3318" skill="Weapon Upgrades" level="5" priority="3" type="Planned" />
+</plan>

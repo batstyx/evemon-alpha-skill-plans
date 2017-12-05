@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3452" skill="Acceleration Control" level="2" priority="3" type="Planned" />
+  <entry skillID="3452" skill="Acceleration Control" level="3" priority="3" type="Planned" />
+  <entry skillID="3453" skill="Evasive Maneuvering" level="2" priority="3" type="Planned" />
+  <entry skillID="3453" skill="Evasive Maneuvering" level="3" priority="3" type="Planned" />
+  <entry skillID="3454" skill="High Speed Maneuvering" level="2" priority="3" type="Planned" />
+  <entry skillID="3454" skill="High Speed Maneuvering" level="3" priority="3" type="Planned" />
+  <entry skillID="3449" skill="Navigation" level="4" priority="3" type="Planned" />
+  <entry skillID="3455" skill="Warp Drive Operation" level="2" priority="3" type="Planned" />
+  <entry skillID="3455" skill="Warp Drive Operation" level="3" priority="3" type="Planned" />
+</plan>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3428" skill="Long Range Targeting" level="2" priority="3" type="Planned" />
+  <entry skillID="3428" skill="Long Range Targeting" level="3" priority="3" type="Planned" />
+  <entry skillID="3431" skill="Signature Analysis" level="2" priority="3" type="Planned" />
+  <entry skillID="3431" skill="Signature Analysis" level="3" priority="3" type="Planned" />
+  <entry skillID="3429" skill="Target Management" level="3" priority="3" type="Planned" />
+  <entry skillID="3429" skill="Target Management" level="4" priority="3" type="Planned" />
+</plan>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="26252" skill="Jury Rigging" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="26252" skill="Jury Rigging" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="26252" skill="Jury Rigging" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="26253" skill="Armor Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26253" skill="Armor Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26253" skill="Armor Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26254" skill="Astronautics Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26254" skill="Astronautics Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26254" skill="Astronautics Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26255" skill="Drones Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26255" skill="Drones Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26255" skill="Drones Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26259" skill="Hybrid Weapon Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26259" skill="Hybrid Weapon Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26259" skill="Hybrid Weapon Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26260" skill="Launcher Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26260" skill="Launcher Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26260" skill="Launcher Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26261" skill="Shield Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26261" skill="Shield Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26261" skill="Shield Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26257" skill="Projectile Weapon Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26257" skill="Projectile Weapon Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26257" skill="Projectile Weapon Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26256" skill="Electronic Superiority Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26256" skill="Electronic Superiority Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26256" skill="Electronic Superiority Rigging" level="3" priority="3" type="Planned" />
+  <entry skillID="26258" skill="Energy Weapon Rigging" level="1" priority="3" type="Planned" />
+  <entry skillID="26258" skill="Energy Weapon Rigging" level="2" priority="3" type="Planned" />
+  <entry skillID="26258" skill="Energy Weapon Rigging" level="3" priority="3" type="Planned" />
+</plan>
