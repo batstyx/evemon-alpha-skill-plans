@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3316" skill="Controlled Bursts" level="3" priority="3" type="Planned" />
+  <entry skillID="3316" skill="Controlled Bursts" level="4" priority="3" type="Planned" />
+  <entry skillID="3300" skill="Gunnery" level="5" priority="3" type="Planned" />
+  <entry skillID="3303" skill="Small Energy Turret" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3303" skill="Small Energy Turret" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3303" skill="Small Energy Turret" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="1" priority="3" type="Planned" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="2" priority="3" type="Planned" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="3" priority="3" type="Planned" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3306" skill="Medium Energy Turret" level="5" priority="3" type="Planned" />
+  <entry skillID="3312" skill="Motion Prediction" level="3" priority="3" type="Planned" />
+  <entry skillID="3312" skill="Motion Prediction" level="4" priority="3" type="Planned" />
+  <entry skillID="3310" skill="Rapid Firing" level="4" priority="3" type="Planned" />
+  <entry skillID="3311" skill="Sharpshooter" level="4" priority="3" type="Planned" />
+  <entry skillID="3303" skill="Small Energy Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3303" skill="Small Energy Turret" level="5" priority="3" type="Planned" />
+  <entry skillID="3315" skill="Surgical Strike" level="2" priority="3" type="Planned" />
+  <entry skillID="3315" skill="Surgical Strike" level="3" priority="3" type="Planned" />
+  <entry skillID="3315" skill="Surgical Strike" level="4" priority="3" type="Planned" />
+  <entry skillID="3317" skill="Trajectory Analysis" level="2" priority="3" type="Planned" />
+  <entry skillID="3317" skill="Trajectory Analysis" level="3" priority="3" type="Planned" />
+  <entry skillID="3317" skill="Trajectory Analysis" level="4" priority="3" type="Planned" />
+  <entry skillID="12213" skill="Small Pulse Laser Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12213" skill="Small Pulse Laser Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12213" skill="Small Pulse Laser Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12214" skill="Medium Pulse Laser Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12214" skill="Medium Pulse Laser Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12214" skill="Medium Pulse Laser Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="11083" skill="Small Beam Laser Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="11083" skill="Small Beam Laser Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="11083" skill="Small Beam Laser Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12204" skill="Medium Beam Laser Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12204" skill="Medium Beam Laser Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12204" skill="Medium Beam Laser Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3309" skill="Large Energy Turret" level="1" priority="3" type="Planned" />
+  <entry skillID="3309" skill="Large Energy Turret" level="2" priority="3" type="Planned" />
+  <entry skillID="3309" skill="Large Energy Turret" level="3" priority="3" type="Planned" />
+  <entry skillID="3309" skill="Large Energy Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3301" skill="Small Hybrid Turret" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3301" skill="Small Hybrid Turret" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="12210" skill="Small Blaster Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12210" skill="Small Blaster Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12210" skill="Small Blaster Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3304" skill="Medium Hybrid Turret" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="12211" skill="Medium Blaster Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12211" skill="Medium Blaster Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12211" skill="Medium Blaster Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="11082" skill="Small Railgun Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="11082" skill="Small Railgun Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="11082" skill="Small Railgun Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12206" skill="Medium Railgun Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12206" skill="Medium Railgun Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12206" skill="Medium Railgun Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3307" skill="Large Hybrid Turret" level="1" priority="3" type="Planned" />
+  <entry skillID="3307" skill="Large Hybrid Turret" level="2" priority="3" type="Planned" />
+  <entry skillID="3307" skill="Large Hybrid Turret" level="3" priority="3" type="Planned" />
+  <entry skillID="3307" skill="Large Hybrid Turret" level="4" priority="3" type="Planned" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3302" skill="Small Projectile Turret" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="11084" skill="Small Autocannon Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="11084" skill="Small Autocannon Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="11084" skill="Small Autocannon Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="1" priority="3" type="Prerequisite" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="2" priority="3" type="Prerequisite" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="3" priority="3" type="Prerequisite" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="3305" skill="Medium Projectile Turret" level="5" priority="3" type="Prerequisite" />
+  <entry skillID="12208" skill="Medium Autocannon Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12208" skill="Medium Autocannon Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12208" skill="Medium Autocannon Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12201" skill="Small Artillery Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12201" skill="Small Artillery Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12201" skill="Small Artillery Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="1" priority="3" type="Planned" />
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="2" priority="3" type="Planned" />
+  <entry skillID="12202" skill="Medium Artillery Specialization" level="3" priority="3" type="Planned" />
+  <entry skillID="3308" skill="Large Projectile Turret" level="1" priority="3" type="Planned" />
+  <entry skillID="3308" skill="Large Projectile Turret" level="2" priority="3" type="Planned" />
+  <entry skillID="3308" skill="Large Projectile Turret" level="3" priority="3" type="Planned" />
+  <entry skillID="3308" skill="Large Projectile Turret" level="4" priority="3" type="Planned" />
+</plan>

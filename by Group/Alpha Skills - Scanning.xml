@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="13278" skill="Archaeology" level="2" priority="3" type="Planned" />
+  <entry skillID="13278" skill="Archaeology" level="3" priority="3" type="Planned" />
+  <entry skillID="25811" skill="Astrometric Acquisition" level="2" priority="3" type="Planned" />
+  <entry skillID="25739" skill="Astrometric Rangefinding" level="2" priority="3" type="Planned" />
+  <entry skillID="21718" skill="Hacking" level="2" priority="3" type="Planned" />
+  <entry skillID="21718" skill="Hacking" level="3" priority="3" type="Planned" />
+</plan>

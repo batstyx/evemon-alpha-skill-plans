@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" revision="4658">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3416" skill="Shield Operation" level="4" priority="3" type="Prerequisite" />
+  <entry skillID="12365" skill="EM Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="12365" skill="EM Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="12367" skill="Explosive Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="12367" skill="Explosive Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="12366" skill="Kinetic Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="12366" skill="Kinetic Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="3422" skill="Shield Emission Systems" level="1" priority="3" type="Planned" />
+  <entry skillID="3422" skill="Shield Emission Systems" level="2" priority="3" type="Planned" />
+  <entry skillID="3422" skill="Shield Emission Systems" level="3" priority="3" type="Planned" />
+  <entry skillID="21059" skill="Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="21059" skill="Shield Compensation" level="2" priority="3" type="Planned" />
+  <entry skillID="21059" skill="Shield Compensation" level="3" priority="3" type="Planned" />
+  <entry skillID="21059" skill="Shield Compensation" level="4" priority="3" type="Planned" />
+  <entry skillID="3419" skill="Shield Management" level="3" priority="3" type="Planned" />
+  <entry skillID="3419" skill="Shield Management" level="4" priority="3" type="Planned" />
+  <entry skillID="3425" skill="Shield Upgrades" level="3" priority="3" type="Planned" />
+  <entry skillID="3425" skill="Shield Upgrades" level="4" priority="3" type="Planned" />
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="3" type="Planned" />
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="3" type="Planned" />
+  <entry skillID="11566" skill="Thermal Shield Compensation" level="1" priority="3" type="Planned" />
+  <entry skillID="11566" skill="Thermal Shield Compensation" level="2" priority="3" type="Planned" />
+</plan>
