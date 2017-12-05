@@ -5,7 +5,7 @@
 These plans are based on characters generated using the Blank Character Generator tool in EVEMon and then populated using the [csv](Alpha%20Skills.csv) generated from the [Clone States - The Next Steps](https://community.eveonline.com/news/dev-blogs/clone-states-the-next-steps/) dev blog.
 
 - [All](Alpha%20Skills%20-%20All.xml)
-- by Race
+- by Race (original Alpha plans)
     - [Amarr](by%20Race/Alpha%20Skills%20-%20Amarr.xml)
     - [Caldari](by%20Race/Alpha%20Skills%20-%20Caldari.xml)
     - [Gallente](by%20Race/Alpha%20Skills%20-%20Gallente.xml)
