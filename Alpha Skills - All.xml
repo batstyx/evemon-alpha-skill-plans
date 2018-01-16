@@ -290,8 +290,6 @@
   <entry skillID="3387" skill="Mass Production" level="2" priority="3" type="Planned" />
   <entry skillID="3387" skill="Mass Production" level="3" priority="3" type="Planned" />
   <entry skillID="3386" skill="Mining" level="4" priority="3" type="Planned" />
-  <entry skillID="16281" skill="Ice Harvesting" level="1" priority="3" type="Planned" />
-  <entry skillID="16281" skill="Ice Harvesting" level="2" priority="3" type="Planned" />
   <entry skillID="22578" skill="Mining Upgrades" level="1" priority="3" type="Planned" />
   <entry skillID="22578" skill="Mining Upgrades" level="2" priority="3" type="Planned" />
   <entry skillID="22578" skill="Mining Upgrades" level="3" priority="3" type="Planned" />
@@ -474,4 +472,5 @@
   <entry skillID="3446" skill="Broker Relations" level="2" priority="3" type="Planned" />
   <entry skillID="16598" skill="Marketing" level="1" priority="3" type="Planned" />
   <entry skillID="16598" skill="Marketing" level="2" priority="3" type="Planned" />
+  <entry skillID="45746" skill="Reactions" level="1" priority="3" type="Planned" />
 </plan>
