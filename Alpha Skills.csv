@@ -98,9 +98,9 @@ Infomorph Psychology,1,Neural Enhancement,1,250,24242
 Industry,5,Production,1,256000,3380
 Mass Production,3,Production,2,16000,3387
 Gas Cloud Harvesting,2,Resource Processing,1,1414,25544
-Ice Harvesting,2,Resource Processing,1,1414,16281
 Mining,4,Resource Processing,1,45255,3386
 Mining Upgrades,4,Resource Processing,4,181019,22578
+Reactions,1,Resource Processing,1,250,45746
 Reprocessing,3,Resource Processing,1,8000,3385
 Salvaging,3,Resource Processing,3,24000,25863
 Armor Rigging,3,Rigging,3,24000,26253
