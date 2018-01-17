@@ -1,3 +1,8 @@
+## [v2.3 - Ice Harvesting/Reactions](https://github.com/batstyx/evemon-alpha-skill-plans/releases/tag/v2.3)
+by [gokeefe](https://github.com/batstyx/evemon-alpha-skill-plans/pull/11)
+- Remove Ice Harvesting
+- Add Reactions I
+
 ## [v2.2 - Gallente Industrial I](https://github.com/batstyx/evemon-alpha-skill-plans/releases/tag/v2.2)
 via [gokeefe](https://github.com/batstyx/evemon-alpha-skill-plans/issues/9)
 - Add Gallente Industrial I 
