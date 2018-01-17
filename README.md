@@ -4,7 +4,7 @@
 
 Download zip of latest version [here](https://github.com/batstyx/evemon-alpha-skill-plans/releases/latest)
 
-These plans are based on characters generated using the Blank Character Generator tool in EVEMon and then populated using the [csv](Alpha%20Skills.csv) generated from the [Clone States - The Next Steps](https://community.eveonline.com/news/dev-blogs/clone-states-the-next-steps/) dev blog.
+These plans are based on characters generated using the Blank Character Generator tool in EVEMon and then populated using the [csv](Alpha%20Skills.csv) generated from the [Clone States - The Next Steps](https://community.eveonline.com/news/dev-blogs/clone-states-the-next-steps/) dev blog and [updated for reality](https://github.com/batstyx/evemon-alpha-skill-plans/pull/11).
 
 - [All](Alpha%20Skills%20-%20All.xml)
 - by Group
@@ -26,7 +26,7 @@ These plans are based on characters generated using the Blank Character Generato
 	 - [Spaceship Command](by%20Group/Alpha%20Skills%20-%20Spaceship%20Command.xml)
 	 - [Targeting](by%20Group/Alpha%20Skills%20-%20Targeting.xml)
 	 - [Trade](by%20Group/Alpha%20Skills%20-%20Trade.xml)
-- by Race (original Alpha plans)
+- by Race (obsolete original Alpha plans)
     - [Amarr](by%20Race/Alpha%20Skills%20-%20Amarr.xml)
     - [Caldari](by%20Race/Alpha%20Skills%20-%20Caldari.xml)
     - [Gallente](by%20Race/Alpha%20Skills%20-%20Gallente.xml)
