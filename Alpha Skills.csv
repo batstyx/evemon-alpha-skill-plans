@@ -14,14 +14,14 @@ Amarr Drone Specialization,2,Drones,5,7071,12484
 Caldari Drone Specialization,2,Drones,5,7071,12487
 Drone Avionics,4,Drones,1,45255,3437
 Drone Durability,4,Drones,5,226274,23618
-Drone Interfacing,4,Drones,5,226274,3442
+Drone Interfacing,3,Drones,5,226274,3442
 Drone Navigation,4,Drones,1,45255,12305
 Drone Sharpshooting,4,Drones,1,45255,23606
 Drones,5,Drones,1,256000,3436
 Gallente Drone Specialization,2,Drones,5,7071,12486
 Heavy Drone Operation,4,Drones,5,226274,3441
 Light Drone Operation,5,Drones,1,256000,24241
-Medium Drone Operation,5,Drones,2,512000,33699
+Medium Drone Operation,4,Drones,2,512000,33699
 Minmatar Drone Specialization,2,Drones,5,7071,12485
 Repair Drone Operation,2,Drones,3,4243,3439
 Electronic Warfare,4,Electronic Systems,2,90510,3427
@@ -30,10 +30,10 @@ Sensor Linking,3,Electronic Systems,3,24000,3433
 Target Painting,3,Electronic Systems,3,24000,19921
 Weapon Disruption,4,Electronic Systems,3,135765,3434
 Advanced Weapon Upgrades,3,Engineering,6,48000,11207
+CPU Management,5,Engineering,1,256000,3426
 Capacitor Emission Systems,4,Engineering,2,90510,3423
 Capacitor Management,4,Engineering,3,135765,3418
 Capacitor Systems Operation,3,Engineering,1,8000,3417
-CPU Management,5,Engineering,1,256000,3426
 Electronics Upgrades,5,Engineering,2,512000,3432
 Energy Grid Upgrades,5,Engineering,2,512000,3424
 Energy Pulse Weapons,2,Engineering,2,2828,3421
@@ -163,7 +163,7 @@ Minmatar Cruiser,4,Spaceship Command,5,226274,3333
 Minmatar Destroyer,4,Spaceship Command,2,90510,33094
 Minmatar Frigate,4,Spaceship Command,2,90510,3329
 Minmatar Industrial,1,Spaceship Command,4,1000,3341
-Spaceship Command,3,Spaceship Command,1,8000,3327
+Spaceship Command,4,Spaceship Command,1,8000,3327
 Anchoring,1,Structure Management,3,750,11584
 Long Range Targeting,3,Targeting,2,16000,3428
 Signature Analysis,3,Targeting,1,8000,3431
